@@ -11,6 +11,7 @@ proactive capacity planning.
 import os
 import sys
 from datetime import datetime, timedelta
+from pathlib import Path
 import warnings
 import logging
 
@@ -31,13 +32,18 @@ try:
 except ImportError as e:
     print(f"Error: Missing required package: {e}")
     print("\nPlease install packages:")
-    print("   pip install -r requirements.txt")
+    print("   uv sync --group aiops")
     sys.exit(1)
 
 
 # Configuration
-PROMETHEUS_URL = "http://localhost:9090"
-MODEL_DIR = "/root/monitoring/forecasting_models"
+PROMETHEUS_URL = os.getenv("PROMETHEUS_URL", "http://localhost:9090")
+MODEL_DIR = Path(
+    os.getenv(
+        "AIOPS_ARTIFACT_DIR",
+        str(Path(__file__).resolve().parents[1] / "artifacts"),
+    )
+) / "forecasting_models"
 TRAINING_HOURS = 1
 MIN_DATA_POINTS = 20
 
@@ -391,7 +397,8 @@ def train_prophet_model(
             )
 
             print(
-                "Try: pip install cmdstan"
+                "Try: uv run --group aiops python -c "
+                "\"from cmdstanpy import install_cmdstan; install_cmdstan()\""
             )
 
             return None
@@ -602,9 +609,7 @@ def main():
         )
 
         print(
-            "   python3 "
-            "/root/monitoring/scripts/"
-            "forecast_metrics.py"
+            "   uv run --group aiops python aiops/forecasting/forecast.py"
         )
 
     else:

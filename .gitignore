@@ -98,7 +98,6 @@ ipython_config.py
 #   Similar to Pipfile.lock, it is generally recommended to include uv.lock in version control.
 #   This is especially recommended for binary packages to ensure reproducibility, and is more
 #   commonly ignored for libraries.
-# uv.lock
 
 # poetry
 #   Similar to Pipfile.lock, it is generally recommended to include poetry.lock in version control.
@@ -156,6 +155,9 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+
+# AIOps model artifacts
+aiops/artifacts/
 
 # Spyder project settings
 .spyderproject

@@ -11,6 +11,7 @@ for proactive planning.
 import os
 import sys
 from datetime import datetime, timedelta
+from pathlib import Path
 import warnings
 import logging
 
@@ -35,17 +36,19 @@ except ImportError as e:
     )
 
     print(
-        "   pip install -r requirements.txt"
+        "   uv sync --group aiops"
     )
 
     sys.exit(1)
 
 
-PROMETHEUS_URL = "http://localhost:9090"
-
-MODEL_DIR = (
-    "/root/monitoring/forecasting_models"
-)
+PROMETHEUS_URL = os.getenv("PROMETHEUS_URL", "http://localhost:9090")
+MODEL_DIR = Path(
+    os.getenv(
+        "AIOPS_ARTIFACT_DIR",
+        str(Path(__file__).resolve().parents[1] / "artifacts"),
+    )
+) / "forecasting_models"
 
 
 METRICS_CONFIG = {
@@ -715,9 +718,7 @@ def main():
         )
 
         print(
-            "   python3 "
-            "/root/monitoring/scripts/"
-            "train_forecasting_model.py"
+            "   uv run --group aiops python aiops/forecasting/train.py"
         )
 
         sys.exit(1)
@@ -761,9 +762,7 @@ def main():
         )
 
         print(
-            "   python3 "
-            "/root/monitoring/scripts/"
-            "train_forecasting_model.py"
+            "   uv run --group aiops python aiops/forecasting/train.py"
         )
 
         sys.exit(1)

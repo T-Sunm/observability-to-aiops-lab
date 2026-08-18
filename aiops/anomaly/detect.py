@@ -1,18 +1,24 @@
-#!/root/monitoring/scripts/venv/bin/python3
+#!/usr/bin/env python3
 
 import os
 import pickle
 import time
 import warnings
 from datetime import datetime, timedelta
+from pathlib import Path
 
 import pandas as pd
 from prometheus_api_client import PrometheusConnect
 
 warnings.filterwarnings("ignore")
 
-PROMETHEUS_URL = "http://localhost:9090"
-MODEL_PATH = "/root/monitoring/anomaly_model.pkl"
+PROMETHEUS_URL = os.getenv("PROMETHEUS_URL", "http://localhost:9090")
+MODEL_PATH = Path(
+    os.getenv(
+        "AIOPS_ARTIFACT_DIR",
+        str(Path(__file__).resolve().parents[1] / "artifacts"),
+    )
+) / "anomaly_model.pkl"
 
 METRICS_QUERY = (
     '100 - (avg(rate(node_cpu_seconds_total{mode="idle"}[5m])) * 100)'
@@ -26,7 +32,7 @@ def load_model():
     if not os.path.exists(MODEL_PATH):
         raise FileNotFoundError(
             "Model not found. "
-            "Run train_anomaly_model.py first."
+            "Run `uv run --group aiops python aiops/anomaly/train.py` first."
         )
 
     with open(MODEL_PATH, "rb") as f:

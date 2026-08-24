@@ -93,56 +93,97 @@ async def root():
 
 
 @app.get("/checkout")
-async def checkout(force_error: bool = False):
+async def checkout(force_error: bool = False, payment_error: bool = False):
     with tracer.start_as_current_span("checkout.calculate_cart") as span:
         cart_size = 999 if force_error else random.randint(1, 5)
         await asyncio.sleep(random.uniform(0.05, 0.2))
         span.set_attribute("cart.size", cart_size)
 
-    try:
-        async with httpx.AsyncClient(timeout=10.0) as client:
+    async with httpx.AsyncClient(timeout=10.0) as client:
+        try:
             response = await client.get(
                 "http://inventory-service:8000/inventory/sku-123",
                 params={"quantity": cart_size},
             )
             response.raise_for_status()
-    except httpx.RequestError as exc:
-        trace.get_current_span().record_exception(exc)
-        log_event(
-            "error",
-            "inventory_request_failed",
-            dependency="inventory-service",
-            error_type=type(exc).__name__,
-            error=str(exc),
-        )
-        return JSONResponse(
-            status_code=502,
-            content={
-                "message": "checkout failed",
-                "reason": "inventory service request failed",
-            },
-        )
-    except httpx.HTTPStatusError as exc:
-        trace.get_current_span().record_exception(exc)
-        log_event(
-            "error",
-            "inventory_returned_error",
-            dependency="inventory-service",
-            dependency_status_code=exc.response.status_code,
-            error_type=type(exc).__name__,
-        )
-        return JSONResponse(
-            status_code=502,
-            content={
-                "message": "checkout failed",
-                "reason": "inventory service returned an error",
-                "inventory_status": exc.response.status_code,
-            },
-        )
+        except httpx.RequestError as exc:
+            trace.get_current_span().record_exception(exc)
+            log_event(
+                "error",
+                "inventory_request_failed",
+                dependency="inventory-service",
+                error_type=type(exc).__name__,
+                error=str(exc),
+            )
+            return JSONResponse(
+                status_code=502,
+                content={
+                    "message": "checkout failed",
+                    "reason": "inventory service request failed",
+                },
+            )
+        except httpx.HTTPStatusError as exc:
+            trace.get_current_span().record_exception(exc)
+            log_event(
+                "error",
+                "inventory_returned_error",
+                dependency="inventory-service",
+                dependency_status_code=exc.response.status_code,
+                error_type=type(exc).__name__,
+            )
+            return JSONResponse(
+                status_code=502,
+                content={
+                    "message": "checkout failed",
+                    "reason": "inventory service returned an error",
+                    "inventory_status": exc.response.status_code,
+                },
+            )
+
+        try:
+            payment = await client.post(
+                "http://payment-service:8000/payments/authorize",
+                params={"amount": cart_size * 19.99, "force_error": payment_error},
+            )
+            payment.raise_for_status()
+        except httpx.RequestError as exc:
+            trace.get_current_span().record_exception(exc)
+            log_event(
+                "error",
+                "payment_request_failed",
+                dependency="payment-service",
+                error_type=type(exc).__name__,
+                error=str(exc),
+            )
+            return JSONResponse(
+                status_code=502,
+                content={
+                    "message": "checkout failed",
+                    "reason": "payment service request failed",
+                },
+            )
+        except httpx.HTTPStatusError as exc:
+            trace.get_current_span().record_exception(exc)
+            log_event(
+                "error",
+                "payment_returned_error",
+                dependency="payment-service",
+                dependency_status_code=exc.response.status_code,
+                error_type=type(exc).__name__,
+            )
+            return JSONResponse(
+                status_code=502,
+                content={
+                    "message": "checkout failed",
+                    "reason": "payment service returned an error",
+                    "payment_status": exc.response.status_code,
+                },
+            )
 
     return {
         "message": "checkout completed",
         "inventory": response.json(),
+        "payment": payment.json(),
     }
 
 

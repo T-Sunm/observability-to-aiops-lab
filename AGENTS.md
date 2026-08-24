@@ -15,8 +15,10 @@ observability-to-aiops-lab/
 ├── pyproject.toml
 ├── uv.lock
 ├── docker-compose.yml
-├── app/
-├── inventory/
+├── services/
+│   ├── demo_app/
+│   ├── inventory_service/
+│   └── payment_service/
 ├── infra/
 │   ├── prometheus/
 │   ├── alertmanager/
@@ -28,11 +30,12 @@ observability-to-aiops-lab/
 │   ├── anomaly/
 │   └── forecasting/
 ├── notebooks/
+├── scripts/
 ├── tests/
 └── main.pdf
 ```
 
-`app/` and `inventory/` own service behavior; `infra/` owns configuration; `aiops/` consumes telemetry.
+`services/` owns service behavior; `infra/` owns configuration; `scripts/` seeds deterministic traffic; `aiops/` consumes telemetry.
 
 ## Setup and Commands
 
@@ -65,7 +68,7 @@ Keep heavy AIOps packages in a separate uv dependency group when groups are intr
 
 ## Telemetry and Tutorial Contract
 
-- Services: `demo-app` and `inventory-service`; checkout endpoint: `/checkout`.
+- Services: `demo-app`, `inventory-service`, and `payment-service`; checkout endpoint: `/checkout`.
 - Metrics: `app_requests_total` and `app_request_latency_seconds_bucket`.
 - Loki labels: `source="docker"` and `service`; severity values: `INFO`, `WARNING`, `ERROR`.
 - Keep `trace_id`, `span_id`, request IDs, timestamps, messages, and events out of Loki stream labels.

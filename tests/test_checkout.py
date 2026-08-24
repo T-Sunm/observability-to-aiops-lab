@@ -5,7 +5,8 @@ from unittest.mock import patch
 import httpx
 from fastapi.responses import JSONResponse
 
-from app import main
+from services.demo_app import main
+from services.payment_service import main as payment_main
 
 
 class FakeResponse:
@@ -43,3 +44,8 @@ class CheckoutTests(unittest.IsolatedAsyncioTestCase):
         self.assertIsInstance(response, JSONResponse)
         self.assertEqual(response.status_code, 502)
         self.assertEqual(FakeAsyncClient.request_params, {"quantity": 999})
+
+    async def test_payment_error_returns_service_unavailable(self) -> None:
+        response = await payment_main.authorize_payment(19.99, force_error=True)
+
+        self.assertEqual(response.status_code, 503)

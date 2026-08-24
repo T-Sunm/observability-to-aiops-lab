@@ -2,12 +2,12 @@ discovery.docker "containers" {
   host = "unix:///var/run/docker.sock"
 }
 
-discovery.relabel "lab_apps" {
+discovery.relabel "docker_apps" {
   targets = discovery.docker.containers.targets
 
   rule {
-    source_labels = ["__meta_docker_container_label_logging"]
-    regex         = "enabled"
+    source_labels = ["__meta_docker_container_label_observability_logs"]
+    regex         = "true"
     action        = "keep"
   }
 
@@ -17,13 +17,13 @@ discovery.relabel "lab_apps" {
   }
 }
 
-loki.source.docker "lab_apps" {
+loki.source.docker "docker_apps" {
   host       = "unix:///var/run/docker.sock"
-  targets    = discovery.relabel.lab_apps.output
-  forward_to = [loki.process.lab_logs.receiver]
+  targets    = discovery.relabel.docker_apps.output
+  forward_to = [loki.process.docker_logs.receiver]
 }
 
-loki.process "lab_logs" {
+loki.process "docker_logs" {
   stage.static_labels {
     values = {
       source = "docker",

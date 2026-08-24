@@ -2,7 +2,7 @@ services:
   demo-app:
     build:
       context: .
-      dockerfile: app/Dockerfile
+      dockerfile: services/demo_app/Dockerfile
     container_name: demo-app
     ports:
       - "8001:8000"
@@ -16,14 +16,14 @@ services:
       OTEL_RESOURCE_ATTRIBUTES: deployment.environment=local,service.version=1.0.0
       OTEL_PYTHON_FASTAPI_EXCLUDED_URLS: metrics,health
     labels:
-      logging: "enabled"
+      observability.logs: "true"
       service: "demo-app"
     restart: unless-stopped
 
   inventory-service:
     build:
       context: .
-      dockerfile: inventory/Dockerfile
+      dockerfile: services/inventory_service/Dockerfile
     container_name: inventory-service
     ports:
       - "8002:8000"
@@ -37,9 +37,43 @@ services:
       OTEL_RESOURCE_ATTRIBUTES: deployment.environment=local,service.version=1.0.0
       OTEL_PYTHON_FASTAPI_EXCLUDED_URLS: metrics,health
     labels:
-      logging: "enabled"
+      observability.logs: "true"
       service: "inventory-service"
     restart: unless-stopped
+
+  payment-service:
+    build:
+      context: .
+      dockerfile: services/payment_service/Dockerfile
+    container_name: payment-service
+    ports:
+      - "8003:8000"
+    environment:
+      OTEL_SERVICE_NAME: payment-service
+      OTEL_TRACES_EXPORTER: otlp
+      OTEL_EXPORTER_OTLP_ENDPOINT: http://otel-collector:4317
+      OTEL_EXPORTER_OTLP_PROTOCOL: grpc
+      OTEL_METRICS_EXPORTER: none
+      OTEL_LOGS_EXPORTER: none
+      OTEL_RESOURCE_ATTRIBUTES: deployment.environment=local,service.version=1.0.0
+      OTEL_PYTHON_FASTAPI_EXCLUDED_URLS: metrics
+    labels:
+      observability.logs: "true"
+      service: "payment-service"
+    restart: unless-stopped
+
+  seed-traffic:
+    image: python:3.12-slim
+    container_name: seed-traffic
+    command: ["python", "/scripts/seed_traffic.py"]
+    depends_on:
+      - demo-app
+      - inventory-service
+      - payment-service
+      - prometheus
+    restart: "no"
+    volumes:
+      - ./scripts/seed_traffic.py:/scripts/seed_traffic.py:ro
 
   prometheus:
     image: prom/prometheus:v3.5.3

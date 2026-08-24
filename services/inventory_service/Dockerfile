@@ -8,7 +8,7 @@ WORKDIR /app
 COPY pyproject.toml uv.lock ./
 RUN uv sync --locked --no-dev --no-install-project
 
-COPY app/main.py ./main.py
+COPY services/inventory_service/main.py ./main.py
 
 EXPOSE 8000
 

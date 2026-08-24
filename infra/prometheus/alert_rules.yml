@@ -9,3 +9,17 @@ groups:
         annotations:
           summary: "High CPU usage detected"
           description: "CPU usage on {{ $labels.instance }} is above 5% for more than 1 minute."
+      - alert: HighCheckoutErrorRate
+        expr: |
+          (
+            sum(rate(app_requests_total{endpoint="/checkout",status=~"5.."}[5m]))
+            /
+            sum(rate(app_requests_total{endpoint="/checkout"}[5m]))
+          ) > 0.1
+        for: 30s
+        labels:
+          severity: warning
+          service: demo-app
+        annotations:
+          summary: "High checkout error rate detected"
+          description: "Checkout error rate is above 10% for more than 30 seconds."

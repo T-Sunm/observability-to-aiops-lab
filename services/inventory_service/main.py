@@ -88,8 +88,10 @@ async def health():
 @app.get("/inventory/{sku}")
 async def get_inventory(sku: str, quantity: int = 1):
     with tracer.start_as_current_span("inventory.check_stock") as span:
-        stock = random.randint(0, 20)
-        await asyncio.sleep(random.uniform(0.25, 0.75))
+        with tracer.start_as_current_span("inventory.database.query") as database_span:
+            database_span.set_attribute("dependency.type", "simulated_database")
+            stock = 20
+            await asyncio.sleep(random.uniform(0.25, 0.75))
         span.set_attribute("inventory.sku", sku)
         span.set_attribute("inventory.requested_quantity", quantity)
         span.set_attribute("inventory.available_stock", stock)

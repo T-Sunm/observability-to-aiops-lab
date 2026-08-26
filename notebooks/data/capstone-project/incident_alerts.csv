@@ -1,0 +1,11 @@
+incident_id,incident_timestamp,incident_type,severity,description
+INC00001,2025-01-15 14:30:00,High CPU and Memory Utilization,HIGH,Automated detection: High CPU and Memory Utilization during performance anomaly
+INC00002,2025-01-22 09:30:00,Storage Performance Degradation,HIGH,Automated detection: Storage Performance Degradation during performance anomaly
+INC00003,2025-02-05 13:30:00,Memory Pressure and Connection Pool Exhaustion,HIGH,Automated detection: Memory Pressure and Connection Pool Exhaustion during performance anomaly
+INC00004,2025-02-18 10:30:00,System Performance Degradation,MEDIUM,Automated detection: System Performance Degradation during performance anomaly
+INC00005,2025-01-08 16:00:00,Scheduled Maintenance,LOW,Routine operational activity
+INC00006,2025-01-12 14:30:00,Scheduled Maintenance,LOW,Routine operational activity
+INC00007,2025-01-25 11:45:00,Certificate Rotation,LOW,Routine operational activity
+INC00008,2025-02-02 09:15:00,Scheduled Maintenance,MEDIUM,Routine operational activity
+INC00009,2025-02-14 13:20:00,Security Scan Running,LOW,Routine operational activity
+INC00010,2025-02-22 10:30:00,Certificate Rotation,MEDIUM,Routine operational activity

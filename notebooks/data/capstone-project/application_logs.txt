@@ -1,0 +1,2000 @@
+2025-01-01 00:00:00 INFO INFO: User user8242 authenticated successfully from 192.168.106.219
+2025-01-01 00:20:00 INFO INFO: Security scan completed - 480822 files scanned
+2025-01-01 00:40:00 INFO INFO: Routine backup completed - 179GB in 1039s
+2025-01-01 01:00:00 INFO INFO: Routine backup completed - 96GB in 1997s
+2025-01-01 01:20:00 INFO INFO: User user2675 authenticated successfully from 192.168.235.124
+2025-01-01 01:40:00 INFO INFO: User user3499 authenticated successfully from 192.168.220.232
+2025-01-01 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 02:20:00 INFO INFO: User user7977 authenticated successfully from 192.168.162.58
+2025-01-01 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 03:00:00 INFO INFO: Routine backup completed - 189GB in 2792s
+2025-01-01 03:20:00 INFO INFO: User user6300 authenticated successfully from 192.168.244.242
+2025-01-01 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 04:00:00 INFO INFO: Security scan completed - 341003 files scanned
+2025-01-01 04:20:00 INFO INFO: Routine backup completed - 111GB in 2944s
+2025-01-01 04:40:00 INFO INFO: Routine backup completed - 170GB in 2187s
+2025-01-01 05:00:00 INFO INFO: Security scan completed - 133782 files scanned
+2025-01-01 05:20:00 INFO INFO: Routine backup completed - 144GB in 2622s
+2025-01-01 05:40:00 INFO INFO: Routine backup completed - 178GB in 1011s
+2025-01-01 06:00:00 INFO INFO: User user9138 authenticated successfully from 192.168.121.178
+2025-01-01 06:20:00 INFO INFO: Routine backup completed - 182GB in 1985s
+2025-01-01 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 07:20:00 INFO INFO: User user6743 authenticated successfully from 192.168.39.123
+2025-01-01 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 08:20:00 INFO INFO: User user3872 authenticated successfully from 192.168.222.182
+2025-01-01 08:40:00 INFO INFO: User user4525 authenticated successfully from 192.168.81.7
+2025-01-01 09:00:00 INFO INFO: User user6081 authenticated successfully from 192.168.29.22
+2025-01-01 09:20:00 INFO INFO: User user5705 authenticated successfully from 192.168.220.207
+2025-01-01 09:40:00 INFO INFO: Routine backup completed - 110GB in 1519s
+2025-01-01 10:00:00 INFO INFO: Security scan completed - 445221 files scanned
+2025-01-01 10:20:00 INFO INFO: User user9279 authenticated successfully from 192.168.136.238
+2025-01-01 10:40:00 INFO INFO: User user4097 authenticated successfully from 192.168.99.97
+2025-01-01 11:00:00 INFO INFO: Routine backup completed - 61GB in 2929s
+2025-01-01 11:20:00 INFO INFO: Routine backup completed - 162GB in 1369s
+2025-01-01 11:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 12:20:00 INFO INFO: User user7875 authenticated successfully from 192.168.65.54
+2025-01-01 12:40:00 INFO INFO: User user6804 authenticated successfully from 192.168.230.66
+2025-01-01 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 13:20:00 INFO INFO: Security scan completed - 141159 files scanned
+2025-01-01 13:40:00 INFO INFO: Routine backup completed - 114GB in 2072s
+2025-01-01 14:00:00 INFO INFO: User user4007 authenticated successfully from 192.168.26.59
+2025-01-01 14:20:00 INFO INFO: Security scan completed - 368283 files scanned
+2025-01-01 14:40:00 INFO INFO: Security scan completed - 173558 files scanned
+2025-01-01 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 15:20:00 INFO INFO: Routine backup completed - 93GB in 1012s
+2025-01-01 15:40:00 INFO INFO: Security scan completed - 412508 files scanned
+2025-01-01 16:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 16:20:00 INFO INFO: Routine backup completed - 113GB in 2829s
+2025-01-01 16:40:00 INFO INFO: User user3450 authenticated successfully from 192.168.244.167
+2025-01-01 17:00:00 INFO INFO: User user7833 authenticated successfully from 192.168.194.85
+2025-01-01 17:20:00 INFO INFO: Security scan completed - 197948 files scanned
+2025-01-01 17:40:00 INFO INFO: User user1882 authenticated successfully from 192.168.72.71
+2025-01-01 18:00:00 INFO INFO: Routine backup completed - 134GB in 2271s
+2025-01-01 18:20:00 INFO INFO: Routine backup completed - 120GB in 1932s
+2025-01-01 18:40:00 INFO INFO: Routine backup completed - 72GB in 1526s
+2025-01-01 19:00:00 INFO INFO: User user3759 authenticated successfully from 192.168.193.219
+2025-01-01 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-01 19:40:00 INFO INFO: Routine backup completed - 195GB in 1546s
+2025-01-01 20:00:00 INFO INFO: Security scan completed - 335472 files scanned
+2025-01-01 20:20:00 INFO INFO: System health check passed - all services normal
+2025-01-01 20:40:00 INFO INFO: Routine backup completed - 122GB in 1571s
+2025-01-01 21:00:00 INFO INFO: Routine backup completed - 50GB in 2096s
+2025-01-01 21:20:00 INFO INFO: Routine backup completed - 106GB in 2697s
+2025-01-01 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-01 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-01 22:20:00 INFO INFO: Security scan completed - 199234 files scanned
+2025-01-01 22:40:00 INFO INFO: User user7976 authenticated successfully from 192.168.130.64
+2025-01-01 23:00:00 INFO INFO: User user5203 authenticated successfully from 192.168.160.94
+2025-01-01 23:20:00 INFO INFO: User user6350 authenticated successfully from 192.168.188.250
+2025-01-01 23:40:00 INFO INFO: Security scan completed - 186406 files scanned
+2025-01-02 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 00:20:00 INFO INFO: Security scan completed - 369528 files scanned
+2025-01-02 00:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 01:00:00 INFO INFO: Routine backup completed - 184GB in 1907s
+2025-01-02 01:20:00 INFO INFO: User user5412 authenticated successfully from 192.168.85.47
+2025-01-02 01:40:00 INFO INFO: Security scan completed - 455011 files scanned
+2025-01-02 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 02:20:00 INFO INFO: Routine backup completed - 194GB in 2580s
+2025-01-02 02:40:00 INFO INFO: User user8938 authenticated successfully from 192.168.212.75
+2025-01-02 03:00:00 INFO INFO: User user5775 authenticated successfully from 192.168.71.25
+2025-01-02 03:20:00 INFO INFO: Routine backup completed - 158GB in 2453s
+2025-01-02 03:40:00 INFO INFO: Security scan completed - 314631 files scanned
+2025-01-02 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 04:20:00 INFO INFO: User user3515 authenticated successfully from 192.168.71.1
+2025-01-02 04:40:00 INFO INFO: User user1026 authenticated successfully from 192.168.249.33
+2025-01-02 05:00:00 INFO INFO: Security scan completed - 353687 files scanned
+2025-01-02 05:20:00 INFO INFO: Routine backup completed - 175GB in 1757s
+2025-01-02 05:40:00 INFO INFO: Routine backup completed - 151GB in 2745s
+2025-01-02 06:00:00 INFO INFO: Security scan completed - 364635 files scanned
+2025-01-02 06:20:00 INFO INFO: Security scan completed - 205343 files scanned
+2025-01-02 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 07:00:00 INFO INFO: Security scan completed - 203334 files scanned
+2025-01-02 07:20:00 INFO INFO: Routine backup completed - 98GB in 1265s
+2025-01-02 07:40:00 INFO INFO: Routine backup completed - 78GB in 1282s
+2025-01-02 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 08:20:00 INFO INFO: Security scan completed - 192387 files scanned
+2025-01-02 08:40:00 INFO INFO: User user8385 authenticated successfully from 192.168.13.45
+2025-01-02 09:00:00 INFO INFO: Security scan completed - 176088 files scanned
+2025-01-02 09:20:00 INFO INFO: Routine backup completed - 84GB in 2711s
+2025-01-02 09:40:00 INFO INFO: Security scan completed - 343590 files scanned
+2025-01-02 10:00:00 INFO INFO: Routine backup completed - 148GB in 1609s
+2025-01-02 10:20:00 INFO INFO: User user8855 authenticated successfully from 192.168.140.207
+2025-01-02 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 11:00:00 INFO INFO: Routine backup completed - 124GB in 2707s
+2025-01-02 11:20:00 INFO INFO: Security scan completed - 373680 files scanned
+2025-01-02 11:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-02 12:40:00 INFO INFO: User user1389 authenticated successfully from 192.168.107.79
+2025-01-02 13:00:00 INFO INFO: Routine backup completed - 140GB in 2016s
+2025-01-02 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-02 13:40:00 INFO INFO: Security scan completed - 153103 files scanned
+2025-01-02 14:00:00 INFO INFO: User user9555 authenticated successfully from 192.168.173.33
+2025-01-02 14:20:00 INFO INFO: Security scan completed - 421614 files scanned
+2025-01-02 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 15:00:00 INFO INFO: Security scan completed - 364765 files scanned
+2025-01-02 15:20:00 INFO INFO: Security scan completed - 230989 files scanned
+2025-01-02 15:40:00 INFO INFO: User user7347 authenticated successfully from 192.168.113.156
+2025-01-02 16:00:00 INFO INFO: Routine backup completed - 64GB in 1078s
+2025-01-02 16:20:00 INFO INFO: Routine backup completed - 70GB in 2021s
+2025-01-02 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 17:00:00 INFO INFO: Security scan completed - 233156 files scanned
+2025-01-02 17:20:00 INFO INFO: Routine backup completed - 87GB in 2299s
+2025-01-02 17:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 18:00:00 INFO INFO: Security scan completed - 402080 files scanned
+2025-01-02 18:20:00 INFO INFO: Security scan completed - 118973 files scanned
+2025-01-02 18:40:00 INFO INFO: System health check passed - all services normal
+2025-01-02 19:00:00 INFO INFO: Security scan completed - 335967 files scanned
+2025-01-02 19:20:00 INFO INFO: Routine backup completed - 64GB in 2531s
+2025-01-02 19:40:00 INFO INFO: Routine backup completed - 81GB in 2022s
+2025-01-02 20:00:00 INFO INFO: Security scan completed - 474753 files scanned
+2025-01-02 20:20:00 INFO INFO: User user1236 authenticated successfully from 192.168.216.43
+2025-01-02 20:40:00 INFO INFO: User user6244 authenticated successfully from 192.168.64.206
+2025-01-02 21:00:00 INFO INFO: User user8816 authenticated successfully from 192.168.91.143
+2025-01-02 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-02 21:40:00 INFO INFO: Security scan completed - 434181 files scanned
+2025-01-02 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-02 22:20:00 INFO INFO: User user7940 authenticated successfully from 192.168.19.46
+2025-01-02 22:40:00 INFO INFO: Security scan completed - 134627 files scanned
+2025-01-02 23:00:00 INFO INFO: Security scan completed - 146679 files scanned
+2025-01-02 23:20:00 INFO INFO: User user4017 authenticated successfully from 192.168.155.247
+2025-01-02 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-03 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-03 00:40:00 INFO INFO: User user6821 authenticated successfully from 192.168.140.192
+2025-01-03 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 01:20:00 INFO INFO: Routine backup completed - 196GB in 2938s
+2025-01-03 01:40:00 INFO INFO: User user1419 authenticated successfully from 192.168.57.125
+2025-01-03 02:00:00 INFO INFO: Routine backup completed - 167GB in 2220s
+2025-01-03 02:20:00 INFO INFO: Security scan completed - 457137 files scanned
+2025-01-03 02:40:00 INFO INFO: Routine backup completed - 148GB in 2433s
+2025-01-03 03:00:00 INFO INFO: Routine backup completed - 150GB in 1818s
+2025-01-03 03:20:00 INFO INFO: User user4030 authenticated successfully from 192.168.7.39
+2025-01-03 03:40:00 INFO INFO: Security scan completed - 332700 files scanned
+2025-01-03 04:00:00 INFO INFO: Routine backup completed - 171GB in 2722s
+2025-01-03 04:20:00 INFO INFO: User user5810 authenticated successfully from 192.168.203.164
+2025-01-03 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-03 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 05:20:00 INFO INFO: Security scan completed - 401921 files scanned
+2025-01-03 05:40:00 INFO INFO: Security scan completed - 284219 files scanned
+2025-01-03 06:00:00 INFO INFO: Routine backup completed - 79GB in 1003s
+2025-01-03 06:20:00 INFO INFO: System health check passed - all services normal
+2025-01-03 06:40:00 INFO INFO: User user4836 authenticated successfully from 192.168.177.95
+2025-01-03 07:00:00 INFO INFO: Routine backup completed - 63GB in 2877s
+2025-01-03 07:20:00 INFO INFO: User user1779 authenticated successfully from 192.168.182.237
+2025-01-03 07:40:00 INFO INFO: Routine backup completed - 167GB in 1041s
+2025-01-03 08:00:00 INFO INFO: Routine backup completed - 90GB in 1792s
+2025-01-03 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-03 08:40:00 INFO INFO: Routine backup completed - 134GB in 1012s
+2025-01-03 09:00:00 INFO INFO: Security scan completed - 207496 files scanned
+2025-01-03 09:20:00 INFO INFO: Security scan completed - 210773 files scanned
+2025-01-03 09:40:00 INFO INFO: Security scan completed - 192152 files scanned
+2025-01-03 10:00:00 INFO INFO: User user4825 authenticated successfully from 192.168.62.153
+2025-01-03 10:20:00 INFO INFO: User user2763 authenticated successfully from 192.168.37.141
+2025-01-03 10:40:00 INFO INFO: Security scan completed - 267798 files scanned
+2025-01-03 11:00:00 INFO INFO: User user3880 authenticated successfully from 192.168.54.16
+2025-01-03 11:20:00 INFO INFO: User user5200 authenticated successfully from 192.168.65.117
+2025-01-03 11:40:00 INFO INFO: Security scan completed - 263525 files scanned
+2025-01-03 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 12:20:00 INFO INFO: User user1565 authenticated successfully from 192.168.223.148
+2025-01-03 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-03 13:00:00 INFO INFO: User user7892 authenticated successfully from 192.168.107.78
+2025-01-03 13:20:00 INFO INFO: User user2745 authenticated successfully from 192.168.34.230
+2025-01-03 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-03 14:00:00 INFO INFO: Routine backup completed - 178GB in 1302s
+2025-01-03 14:20:00 INFO INFO: User user6654 authenticated successfully from 192.168.9.105
+2025-01-03 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-03 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-03 15:40:00 INFO INFO: Security scan completed - 361601 files scanned
+2025-01-03 16:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 16:20:00 INFO INFO: Routine backup completed - 139GB in 2123s
+2025-01-03 16:40:00 INFO INFO: Security scan completed - 113309 files scanned
+2025-01-03 17:00:00 INFO INFO: Routine backup completed - 147GB in 1987s
+2025-01-03 17:20:00 INFO INFO: Security scan completed - 391756 files scanned
+2025-01-03 17:40:00 INFO INFO: Security scan completed - 346743 files scanned
+2025-01-03 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 18:20:00 INFO INFO: Routine backup completed - 152GB in 1472s
+2025-01-03 18:40:00 INFO INFO: Security scan completed - 490862 files scanned
+2025-01-03 19:00:00 INFO INFO: Security scan completed - 463206 files scanned
+2025-01-03 19:20:00 INFO INFO: Routine backup completed - 70GB in 1149s
+2025-01-03 19:40:00 INFO INFO: Routine backup completed - 68GB in 2283s
+2025-01-03 20:00:00 INFO INFO: User user5427 authenticated successfully from 192.168.208.226
+2025-01-03 20:20:00 INFO INFO: User user1907 authenticated successfully from 192.168.49.34
+2025-01-03 20:40:00 INFO INFO: User user1946 authenticated successfully from 192.168.152.47
+2025-01-03 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-03 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-03 21:40:00 INFO INFO: User user1127 authenticated successfully from 192.168.243.181
+2025-01-03 22:00:00 INFO INFO: Security scan completed - 186217 files scanned
+2025-01-03 22:20:00 INFO INFO: Routine backup completed - 181GB in 1386s
+2025-01-03 22:40:00 INFO INFO: Routine backup completed - 58GB in 2459s
+2025-01-03 23:00:00 INFO INFO: User user5687 authenticated successfully from 192.168.217.108
+2025-01-03 23:20:00 INFO INFO: Routine backup completed - 150GB in 2097s
+2025-01-03 23:40:00 INFO INFO: User user8818 authenticated successfully from 192.168.124.128
+2025-01-04 00:00:00 INFO INFO: User user5647 authenticated successfully from 192.168.11.241
+2025-01-04 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-04 00:40:00 INFO INFO: User user9346 authenticated successfully from 192.168.106.45
+2025-01-04 01:00:00 INFO INFO: Routine backup completed - 62GB in 2874s
+2025-01-04 01:20:00 INFO INFO: Security scan completed - 482120 files scanned
+2025-01-04 01:40:00 INFO INFO: Routine backup completed - 107GB in 1721s
+2025-01-04 02:00:00 INFO INFO: Routine backup completed - 85GB in 2607s
+2025-01-04 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-04 02:40:00 INFO INFO: Routine backup completed - 69GB in 1942s
+2025-01-04 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 03:20:00 INFO INFO: User user9195 authenticated successfully from 192.168.188.2
+2025-01-04 03:40:00 INFO INFO: User user5313 authenticated successfully from 192.168.50.37
+2025-01-04 04:00:00 INFO INFO: Security scan completed - 118459 files scanned
+2025-01-04 04:20:00 INFO INFO: Routine backup completed - 117GB in 1146s
+2025-01-04 04:40:00 INFO INFO: Routine backup completed - 152GB in 1336s
+2025-01-04 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 05:20:00 INFO INFO: Routine backup completed - 67GB in 1539s
+2025-01-04 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-04 06:00:00 INFO INFO: Security scan completed - 255731 files scanned
+2025-01-04 06:20:00 INFO INFO: Routine backup completed - 87GB in 1306s
+2025-01-04 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-04 07:00:00 INFO INFO: User user1235 authenticated successfully from 192.168.15.186
+2025-01-04 07:20:00 INFO INFO: Security scan completed - 180932 files scanned
+2025-01-04 07:40:00 INFO INFO: User user3625 authenticated successfully from 192.168.174.203
+2025-01-04 08:00:00 INFO INFO: Routine backup completed - 89GB in 1684s
+2025-01-04 08:20:00 INFO INFO: User user3905 authenticated successfully from 192.168.33.95
+2025-01-04 08:40:00 INFO INFO: User user9400 authenticated successfully from 192.168.55.245
+2025-01-04 09:00:00 INFO INFO: Security scan completed - 165783 files scanned
+2025-01-04 09:20:00 INFO INFO: Security scan completed - 446498 files scanned
+2025-01-04 09:40:00 INFO INFO: System health check passed - all services normal
+2025-01-04 10:00:00 INFO INFO: Routine backup completed - 69GB in 2339s
+2025-01-04 10:20:00 INFO INFO: User user9363 authenticated successfully from 192.168.44.57
+2025-01-04 10:40:00 INFO INFO: Routine backup completed - 101GB in 2714s
+2025-01-04 11:00:00 INFO INFO: Routine backup completed - 104GB in 1699s
+2025-01-04 11:20:00 INFO INFO: User user2448 authenticated successfully from 192.168.217.253
+2025-01-04 11:40:00 INFO INFO: Routine backup completed - 191GB in 1322s
+2025-01-04 12:00:00 INFO INFO: Security scan completed - 464843 files scanned
+2025-01-04 12:20:00 INFO INFO: User user6155 authenticated successfully from 192.168.231.180
+2025-01-04 12:40:00 INFO INFO: Security scan completed - 425272 files scanned
+2025-01-04 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 13:20:00 INFO INFO: Security scan completed - 332843 files scanned
+2025-01-04 13:40:00 INFO INFO: Security scan completed - 377451 files scanned
+2025-01-04 14:00:00 INFO INFO: User user2281 authenticated successfully from 192.168.77.70
+2025-01-04 14:20:00 INFO INFO: User user4908 authenticated successfully from 192.168.2.193
+2025-01-04 14:40:00 INFO INFO: Security scan completed - 392434 files scanned
+2025-01-04 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 15:20:00 INFO INFO: Routine backup completed - 188GB in 2564s
+2025-01-04 15:40:00 INFO INFO: Routine backup completed - 183GB in 2202s
+2025-01-04 16:00:00 INFO INFO: Security scan completed - 253710 files scanned
+2025-01-04 16:20:00 INFO INFO: Routine backup completed - 199GB in 2319s
+2025-01-04 16:40:00 INFO INFO: Routine backup completed - 139GB in 2274s
+2025-01-04 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-04 17:40:00 INFO INFO: Routine backup completed - 54GB in 1602s
+2025-01-04 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-04 18:20:00 INFO INFO: Security scan completed - 378714 files scanned
+2025-01-04 18:40:00 INFO INFO: Security scan completed - 399027 files scanned
+2025-01-04 19:00:00 INFO INFO: Routine backup completed - 160GB in 1077s
+2025-01-04 19:20:00 INFO INFO: Security scan completed - 236773 files scanned
+2025-01-04 19:40:00 INFO INFO: Routine backup completed - 82GB in 2732s
+2025-01-04 20:00:00 INFO INFO: Security scan completed - 119266 files scanned
+2025-01-04 20:20:00 INFO INFO: System health check passed - all services normal
+2025-01-04 20:40:00 INFO INFO: Routine backup completed - 102GB in 1741s
+2025-01-04 21:00:00 INFO INFO: Security scan completed - 228460 files scanned
+2025-01-04 21:20:00 INFO INFO: Routine backup completed - 146GB in 2342s
+2025-01-04 21:40:00 INFO INFO: User user9585 authenticated successfully from 192.168.56.129
+2025-01-04 22:00:00 INFO INFO: User user2376 authenticated successfully from 192.168.77.19
+2025-01-04 22:20:00 INFO INFO: User user2714 authenticated successfully from 192.168.6.220
+2025-01-04 22:40:00 INFO INFO: Routine backup completed - 132GB in 1799s
+2025-01-04 23:00:00 INFO INFO: Security scan completed - 443740 files scanned
+2025-01-04 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-04 23:40:00 INFO INFO: User user7465 authenticated successfully from 192.168.80.34
+2025-01-05 00:00:00 INFO INFO: User user9112 authenticated successfully from 192.168.55.51
+2025-01-05 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-05 00:40:00 INFO INFO: User user1835 authenticated successfully from 192.168.100.9
+2025-01-05 01:00:00 INFO INFO: Routine backup completed - 157GB in 2553s
+2025-01-05 01:20:00 INFO INFO: Routine backup completed - 66GB in 2128s
+2025-01-05 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 02:00:00 INFO INFO: User user6973 authenticated successfully from 192.168.235.91
+2025-01-05 02:20:00 INFO INFO: Security scan completed - 205779 files scanned
+2025-01-05 02:40:00 INFO INFO: Security scan completed - 378811 files scanned
+2025-01-05 03:00:00 INFO INFO: Routine backup completed - 146GB in 1581s
+2025-01-05 03:20:00 INFO INFO: Security scan completed - 353079 files scanned
+2025-01-05 03:40:00 INFO INFO: Security scan completed - 391071 files scanned
+2025-01-05 04:00:00 INFO INFO: User user8492 authenticated successfully from 192.168.212.221
+2025-01-05 04:20:00 INFO INFO: Security scan completed - 207108 files scanned
+2025-01-05 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 05:00:00 INFO INFO: Routine backup completed - 168GB in 2339s
+2025-01-05 05:20:00 INFO INFO: Security scan completed - 426497 files scanned
+2025-01-05 05:40:00 INFO INFO: Routine backup completed - 56GB in 1377s
+2025-01-05 06:00:00 INFO INFO: Security scan completed - 217259 files scanned
+2025-01-05 06:20:00 INFO INFO: Routine backup completed - 112GB in 2714s
+2025-01-05 06:40:00 INFO INFO: User user2647 authenticated successfully from 192.168.126.57
+2025-01-05 07:00:00 INFO INFO: Security scan completed - 124452 files scanned
+2025-01-05 07:20:00 INFO INFO: Routine backup completed - 69GB in 2534s
+2025-01-05 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 08:00:00 INFO INFO: Routine backup completed - 89GB in 1939s
+2025-01-05 08:20:00 INFO INFO: Routine backup completed - 196GB in 1640s
+2025-01-05 08:40:00 INFO INFO: Security scan completed - 329214 files scanned
+2025-01-05 09:00:00 INFO INFO: Security scan completed - 405382 files scanned
+2025-01-05 09:20:00 INFO INFO: User user7654 authenticated successfully from 192.168.225.146
+2025-01-05 09:40:00 INFO INFO: Security scan completed - 101470 files scanned
+2025-01-05 10:00:00 INFO INFO: Security scan completed - 273399 files scanned
+2025-01-05 10:20:00 INFO INFO: User user7004 authenticated successfully from 192.168.160.150
+2025-01-05 10:40:00 INFO INFO: Routine backup completed - 92GB in 2196s
+2025-01-05 11:00:00 INFO INFO: User user3730 authenticated successfully from 192.168.89.62
+2025-01-05 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-05 11:40:00 INFO INFO: User user9714 authenticated successfully from 192.168.75.194
+2025-01-05 12:00:00 INFO INFO: Security scan completed - 117551 files scanned
+2025-01-05 12:20:00 INFO INFO: Security scan completed - 407390 files scanned
+2025-01-05 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 13:00:00 INFO INFO: User user2828 authenticated successfully from 192.168.192.216
+2025-01-05 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-05 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 14:00:00 INFO INFO: System health check passed - all services normal
+2025-01-05 14:20:00 INFO INFO: Security scan completed - 448836 files scanned
+2025-01-05 14:40:00 INFO INFO: Routine backup completed - 185GB in 1193s
+2025-01-05 15:00:00 INFO INFO: Routine backup completed - 174GB in 1723s
+2025-01-05 15:20:00 INFO INFO: Routine backup completed - 125GB in 1690s
+2025-01-05 15:40:00 INFO INFO: User user5049 authenticated successfully from 192.168.177.110
+2025-01-05 16:00:00 INFO INFO: User user8883 authenticated successfully from 192.168.60.242
+2025-01-05 16:20:00 INFO INFO: Security scan completed - 315537 files scanned
+2025-01-05 16:40:00 INFO INFO: Security scan completed - 127785 files scanned
+2025-01-05 17:00:00 INFO INFO: Routine backup completed - 174GB in 1544s
+2025-01-05 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-05 17:40:00 INFO INFO: Security scan completed - 361866 files scanned
+2025-01-05 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-05 18:20:00 INFO INFO: Security scan completed - 401752 files scanned
+2025-01-05 18:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 19:00:00 INFO INFO: System health check passed - all services normal
+2025-01-05 19:20:00 INFO INFO: Routine backup completed - 171GB in 2926s
+2025-01-05 19:40:00 INFO INFO: User user2564 authenticated successfully from 192.168.252.130
+2025-01-05 20:00:00 INFO INFO: Routine backup completed - 55GB in 1276s
+2025-01-05 20:20:00 INFO INFO: Security scan completed - 316517 files scanned
+2025-01-05 20:40:00 INFO INFO: Routine backup completed - 172GB in 2368s
+2025-01-05 21:00:00 INFO INFO: Routine backup completed - 175GB in 2610s
+2025-01-05 21:20:00 INFO INFO: Routine backup completed - 185GB in 2198s
+2025-01-05 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 22:00:00 INFO INFO: User user8657 authenticated successfully from 192.168.164.167
+2025-01-05 22:20:00 INFO INFO: Routine backup completed - 150GB in 2667s
+2025-01-05 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-05 23:00:00 INFO INFO: Security scan completed - 385311 files scanned
+2025-01-05 23:20:00 INFO INFO: Security scan completed - 344608 files scanned
+2025-01-05 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 00:20:00 INFO INFO: Security scan completed - 101573 files scanned
+2025-01-06 00:40:00 INFO INFO: Routine backup completed - 199GB in 1653s
+2025-01-06 01:00:00 INFO INFO: Routine backup completed - 164GB in 1533s
+2025-01-06 01:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 02:00:00 INFO INFO: User user3407 authenticated successfully from 192.168.211.12
+2025-01-06 02:20:00 INFO INFO: Security scan completed - 242020 files scanned
+2025-01-06 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 03:00:00 INFO INFO: User user9876 authenticated successfully from 192.168.27.6
+2025-01-06 03:20:00 INFO INFO: Security scan completed - 214538 files scanned
+2025-01-06 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 04:00:00 INFO INFO: Routine backup completed - 198GB in 1471s
+2025-01-06 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 04:40:00 INFO INFO: Routine backup completed - 80GB in 2596s
+2025-01-06 05:00:00 INFO INFO: Routine backup completed - 71GB in 2723s
+2025-01-06 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 05:40:00 INFO INFO: Security scan completed - 252281 files scanned
+2025-01-06 06:00:00 INFO INFO: Security scan completed - 193887 files scanned
+2025-01-06 06:20:00 INFO INFO: Routine backup completed - 132GB in 1586s
+2025-01-06 06:40:00 INFO INFO: Security scan completed - 117724 files scanned
+2025-01-06 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 07:20:00 INFO INFO: Routine backup completed - 130GB in 2463s
+2025-01-06 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 08:00:00 INFO INFO: User user4459 authenticated successfully from 192.168.230.95
+2025-01-06 08:20:00 INFO INFO: Security scan completed - 264195 files scanned
+2025-01-06 08:40:00 INFO INFO: Routine backup completed - 177GB in 1520s
+2025-01-06 09:00:00 INFO INFO: Security scan completed - 407728 files scanned
+2025-01-06 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 09:40:00 INFO INFO: User user4007 authenticated successfully from 192.168.17.45
+2025-01-06 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 10:20:00 INFO INFO: Security scan completed - 252785 files scanned
+2025-01-06 10:40:00 INFO INFO: Routine backup completed - 63GB in 1220s
+2025-01-06 11:00:00 INFO INFO: Routine backup completed - 107GB in 1240s
+2025-01-06 11:20:00 INFO INFO: Routine backup completed - 173GB in 2905s
+2025-01-06 11:40:00 INFO INFO: Security scan completed - 457593 files scanned
+2025-01-06 12:00:00 INFO INFO: Security scan completed - 472994 files scanned
+2025-01-06 12:20:00 INFO INFO: User user4679 authenticated successfully from 192.168.183.44
+2025-01-06 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 13:20:00 INFO INFO: User user7202 authenticated successfully from 192.168.136.230
+2025-01-06 13:40:00 INFO INFO: Routine backup completed - 146GB in 1823s
+2025-01-06 14:00:00 INFO INFO: User user1277 authenticated successfully from 192.168.115.231
+2025-01-06 14:20:00 INFO INFO: Routine backup completed - 96GB in 1818s
+2025-01-06 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 15:00:00 INFO INFO: Security scan completed - 145844 files scanned
+2025-01-06 15:20:00 INFO INFO: Routine backup completed - 71GB in 1707s
+2025-01-06 15:40:00 INFO INFO: Security scan completed - 376820 files scanned
+2025-01-06 16:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 16:40:00 INFO INFO: Security scan completed - 300680 files scanned
+2025-01-06 17:00:00 INFO INFO: User user8097 authenticated successfully from 192.168.165.253
+2025-01-06 17:20:00 INFO INFO: Security scan completed - 147578 files scanned
+2025-01-06 17:40:00 INFO INFO: Routine backup completed - 76GB in 2573s
+2025-01-06 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 18:20:00 INFO INFO: Routine backup completed - 107GB in 2860s
+2025-01-06 18:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 19:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 19:20:00 INFO INFO: Security scan completed - 304204 files scanned
+2025-01-06 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-06 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 20:20:00 INFO INFO: Security scan completed - 234989 files scanned
+2025-01-06 20:40:00 INFO INFO: User user2023 authenticated successfully from 192.168.108.189
+2025-01-06 21:00:00 INFO INFO: Security scan completed - 369856 files scanned
+2025-01-06 21:20:00 INFO INFO: Routine backup completed - 189GB in 1376s
+2025-01-06 21:40:00 INFO INFO: Routine backup completed - 57GB in 2965s
+2025-01-06 22:00:00 INFO INFO: Security scan completed - 157268 files scanned
+2025-01-06 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 22:40:00 INFO INFO: Security scan completed - 222733 files scanned
+2025-01-06 23:00:00 INFO INFO: System health check passed - all services normal
+2025-01-06 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-06 23:40:00 INFO INFO: Routine backup completed - 115GB in 1053s
+2025-01-07 00:00:00 INFO INFO: Security scan completed - 457184 files scanned
+2025-01-07 00:20:00 INFO INFO: User user5362 authenticated successfully from 192.168.132.76
+2025-01-07 00:40:00 INFO INFO: Security scan completed - 498660 files scanned
+2025-01-07 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-07 01:20:00 INFO INFO: User user3559 authenticated successfully from 192.168.90.148
+2025-01-07 01:40:00 INFO INFO: Routine backup completed - 151GB in 2565s
+2025-01-07 02:00:00 INFO INFO: Routine backup completed - 179GB in 1446s
+2025-01-07 02:20:00 INFO INFO: User user6988 authenticated successfully from 192.168.102.42
+2025-01-07 02:40:00 INFO INFO: User user8049 authenticated successfully from 192.168.179.25
+2025-01-07 03:00:00 INFO INFO: Routine backup completed - 134GB in 1983s
+2025-01-07 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-07 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 04:00:00 INFO INFO: Security scan completed - 260002 files scanned
+2025-01-07 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-07 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 05:00:00 INFO INFO: Routine backup completed - 157GB in 1188s
+2025-01-07 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-07 05:40:00 INFO INFO: Security scan completed - 286760 files scanned
+2025-01-07 06:00:00 INFO INFO: User user7712 authenticated successfully from 192.168.209.56
+2025-01-07 06:20:00 INFO INFO: User user6899 authenticated successfully from 192.168.45.232
+2025-01-07 06:40:00 INFO INFO: User user1770 authenticated successfully from 192.168.245.175
+2025-01-07 07:00:00 INFO INFO: User user3663 authenticated successfully from 192.168.68.207
+2025-01-07 07:20:00 INFO INFO: Routine backup completed - 142GB in 1837s
+2025-01-07 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 08:00:00 INFO INFO: User user1064 authenticated successfully from 192.168.227.63
+2025-01-07 08:20:00 INFO INFO: Security scan completed - 473203 files scanned
+2025-01-07 08:40:00 INFO INFO: User user9404 authenticated successfully from 192.168.217.5
+2025-01-07 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-07 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-07 09:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 10:00:00 INFO INFO: Security scan completed - 442405 files scanned
+2025-01-07 10:20:00 INFO INFO: Security scan completed - 300684 files scanned
+2025-01-07 10:40:00 INFO INFO: User user6550 authenticated successfully from 192.168.177.172
+2025-01-07 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-07 11:20:00 INFO INFO: Security scan completed - 138678 files scanned
+2025-01-07 11:40:00 INFO INFO: Security scan completed - 356035 files scanned
+2025-01-07 12:00:00 INFO INFO: User user2593 authenticated successfully from 192.168.25.98
+2025-01-07 12:20:00 INFO INFO: User user8323 authenticated successfully from 192.168.123.146
+2025-01-07 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 13:00:00 INFO INFO: Routine backup completed - 155GB in 2242s
+2025-01-07 13:20:00 INFO INFO: Routine backup completed - 73GB in 2393s
+2025-01-07 13:40:00 INFO INFO: Security scan completed - 100780 files scanned
+2025-01-07 14:00:00 INFO INFO: Routine backup completed - 94GB in 1138s
+2025-01-07 14:20:00 INFO INFO: Routine backup completed - 154GB in 1967s
+2025-01-07 14:40:00 INFO INFO: Security scan completed - 391253 files scanned
+2025-01-07 15:00:00 INFO INFO: Security scan completed - 195375 files scanned
+2025-01-07 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-07 15:40:00 INFO INFO: Routine backup completed - 138GB in 1234s
+2025-01-07 16:00:00 INFO INFO: Routine backup completed - 181GB in 2253s
+2025-01-07 16:20:00 INFO INFO: Routine backup completed - 99GB in 2770s
+2025-01-07 16:40:00 INFO INFO: User user2401 authenticated successfully from 192.168.117.55
+2025-01-07 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-07 17:20:00 INFO INFO: User user3594 authenticated successfully from 192.168.167.167
+2025-01-07 17:40:00 INFO INFO: User user6781 authenticated successfully from 192.168.65.28
+2025-01-07 18:00:00 INFO INFO: Security scan completed - 217456 files scanned
+2025-01-07 18:20:00 INFO INFO: Security scan completed - 496478 files scanned
+2025-01-07 18:40:00 INFO INFO: User user2793 authenticated successfully from 192.168.250.130
+2025-01-07 19:00:00 INFO INFO: User user8758 authenticated successfully from 192.168.39.98
+2025-01-07 19:20:00 INFO INFO: User user7531 authenticated successfully from 192.168.147.183
+2025-01-07 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 20:00:00 INFO INFO: User user3563 authenticated successfully from 192.168.38.244
+2025-01-07 20:20:00 INFO INFO: Security scan completed - 376125 files scanned
+2025-01-07 20:40:00 INFO INFO: System health check passed - all services normal
+2025-01-07 21:00:00 INFO INFO: Security scan completed - 409631 files scanned
+2025-01-07 21:20:00 INFO INFO: Routine backup completed - 60GB in 2771s
+2025-01-07 21:40:00 INFO INFO: Routine backup completed - 136GB in 1076s
+2025-01-07 22:00:00 INFO INFO: User user3200 authenticated successfully from 192.168.46.53
+2025-01-07 22:20:00 INFO INFO: Routine backup completed - 70GB in 1923s
+2025-01-07 22:40:00 INFO INFO: Routine backup completed - 86GB in 2027s
+2025-01-07 23:00:00 INFO INFO: User user4300 authenticated successfully from 192.168.112.95
+2025-01-07 23:20:00 INFO INFO: User user1622 authenticated successfully from 192.168.166.79
+2025-01-07 23:40:00 INFO INFO: Security scan completed - 440157 files scanned
+2025-01-08 00:00:00 INFO INFO: User user8827 authenticated successfully from 192.168.73.114
+2025-01-08 00:20:00 INFO INFO: User user5676 authenticated successfully from 192.168.44.53
+2025-01-08 00:40:00 INFO INFO: Security scan completed - 376445 files scanned
+2025-01-08 01:00:00 INFO INFO: User user5087 authenticated successfully from 192.168.195.230
+2025-01-08 01:20:00 INFO INFO: System health check passed - all services normal
+2025-01-08 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 02:20:00 INFO INFO: User user5597 authenticated successfully from 192.168.220.140
+2025-01-08 02:40:00 INFO INFO: Routine backup completed - 70GB in 1771s
+2025-01-08 03:00:00 INFO INFO: Security scan completed - 132113 files scanned
+2025-01-08 03:20:00 INFO INFO: Routine backup completed - 155GB in 2206s
+2025-01-08 03:40:00 INFO INFO: User user2222 authenticated successfully from 192.168.117.182
+2025-01-08 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 04:20:00 INFO INFO: Routine backup completed - 187GB in 1488s
+2025-01-08 04:40:00 INFO INFO: Security scan completed - 378189 files scanned
+2025-01-08 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 05:20:00 INFO INFO: Security scan completed - 250958 files scanned
+2025-01-08 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 06:00:00 INFO INFO: User user9555 authenticated successfully from 192.168.140.88
+2025-01-08 06:20:00 INFO INFO: User user8023 authenticated successfully from 192.168.184.89
+2025-01-08 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 07:00:00 INFO INFO: User user6612 authenticated successfully from 192.168.27.38
+2025-01-08 07:20:00 INFO INFO: Security scan completed - 333167 files scanned
+2025-01-08 07:40:00 INFO INFO: Routine backup completed - 69GB in 1296s
+2025-01-08 08:00:00 INFO INFO: User user7168 authenticated successfully from 192.168.239.45
+2025-01-08 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-08 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 09:00:00 INFO INFO: User user1883 authenticated successfully from 192.168.161.58
+2025-01-08 09:20:00 INFO INFO: User user9866 authenticated successfully from 192.168.144.180
+2025-01-08 09:40:00 INFO INFO: Security scan completed - 308348 files scanned
+2025-01-08 10:00:00 INFO INFO: Security scan completed - 493352 files scanned
+2025-01-08 10:20:00 INFO INFO: User user4798 authenticated successfully from 192.168.140.146
+2025-01-08 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 11:20:00 INFO INFO: User user9568 authenticated successfully from 192.168.217.67
+2025-01-08 11:40:00 INFO INFO: User user9187 authenticated successfully from 192.168.186.239
+2025-01-08 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 12:20:00 INFO INFO: Routine backup completed - 144GB in 2284s
+2025-01-08 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-08 13:00:00 INFO INFO: Security scan completed - 216886 files scanned
+2025-01-08 13:20:00 INFO INFO: Security scan completed - 377231 files scanned
+2025-01-08 13:40:00 INFO INFO: Routine backup completed - 179GB in 1555s
+2025-01-08 14:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 14:20:00 INFO INFO: User user2328 authenticated successfully from 192.168.138.109
+2025-01-08 14:40:00 INFO INFO: Routine backup completed - 140GB in 1844s
+2025-01-08 15:00:00 INFO INFO: Security scan completed - 427395 files scanned
+2025-01-08 15:20:00 INFO INFO: User user9289 authenticated successfully from 192.168.232.178
+2025-01-08 15:40:00 INFO INFO: Routine backup completed - 95GB in 1161s
+2025-01-08 16:00:00 INFO INFO: Routine backup completed - 128GB in 1353s
+2025-01-08 16:20:00 INFO INFO: User user6469 authenticated successfully from 192.168.48.211
+2025-01-08 16:40:00 INFO INFO: User user1016 authenticated successfully from 192.168.200.134
+2025-01-08 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-08 17:40:00 INFO INFO: Routine backup completed - 100GB in 1935s
+2025-01-08 18:00:00 INFO INFO: Security scan completed - 155452 files scanned
+2025-01-08 18:20:00 INFO INFO: User user3204 authenticated successfully from 192.168.65.118
+2025-01-08 18:40:00 INFO INFO: Security scan completed - 378916 files scanned
+2025-01-08 19:00:00 INFO INFO: User user7134 authenticated successfully from 192.168.106.190
+2025-01-08 19:20:00 INFO INFO: Security scan completed - 126111 files scanned
+2025-01-08 19:40:00 INFO INFO: Routine backup completed - 197GB in 2988s
+2025-01-08 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-08 20:20:00 INFO INFO: Security scan completed - 140338 files scanned
+2025-01-08 20:40:00 INFO INFO: User user5379 authenticated successfully from 192.168.42.176
+2025-01-08 21:00:00 INFO INFO: User user6152 authenticated successfully from 192.168.102.37
+2025-01-08 21:20:00 INFO INFO: User user7398 authenticated successfully from 192.168.170.147
+2025-01-08 21:40:00 INFO INFO: Security scan completed - 390495 files scanned
+2025-01-08 22:00:00 INFO INFO: Routine backup completed - 170GB in 2934s
+2025-01-08 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-08 22:40:00 INFO INFO: Security scan completed - 337535 files scanned
+2025-01-08 23:00:00 INFO INFO: Security scan completed - 479915 files scanned
+2025-01-08 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-08 23:40:00 INFO INFO: User user1621 authenticated successfully from 192.168.201.239
+2025-01-09 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-09 00:20:00 INFO INFO: User user2248 authenticated successfully from 192.168.147.203
+2025-01-09 00:40:00 INFO INFO: Routine backup completed - 82GB in 2549s
+2025-01-09 01:00:00 INFO INFO: User user6081 authenticated successfully from 192.168.151.207
+2025-01-09 01:20:00 INFO INFO: User user7182 authenticated successfully from 192.168.100.2
+2025-01-09 01:40:00 INFO INFO: Routine backup completed - 158GB in 1546s
+2025-01-09 02:00:00 INFO INFO: Security scan completed - 154937 files scanned
+2025-01-09 02:20:00 INFO INFO: Routine backup completed - 175GB in 2716s
+2025-01-09 02:40:00 INFO INFO: Routine backup completed - 60GB in 1465s
+2025-01-09 03:00:00 INFO INFO: User user6207 authenticated successfully from 192.168.21.211
+2025-01-09 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-09 04:00:00 INFO INFO: User user2268 authenticated successfully from 192.168.207.156
+2025-01-09 04:20:00 INFO INFO: Routine backup completed - 152GB in 1716s
+2025-01-09 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-09 05:00:00 INFO INFO: User user5371 authenticated successfully from 192.168.52.47
+2025-01-09 05:20:00 INFO INFO: Routine backup completed - 118GB in 1255s
+2025-01-09 05:40:00 INFO INFO: User user6661 authenticated successfully from 192.168.242.142
+2025-01-09 06:00:00 INFO INFO: Security scan completed - 178124 files scanned
+2025-01-09 06:20:00 INFO INFO: Routine backup completed - 103GB in 2677s
+2025-01-09 06:40:00 INFO INFO: Security scan completed - 369426 files scanned
+2025-01-09 07:00:00 INFO INFO: Security scan completed - 245586 files scanned
+2025-01-09 07:20:00 INFO INFO: Security scan completed - 242184 files scanned
+2025-01-09 07:40:00 INFO INFO: Security scan completed - 150615 files scanned
+2025-01-09 08:00:00 INFO INFO: User user2667 authenticated successfully from 192.168.53.213
+2025-01-09 08:20:00 INFO INFO: Routine backup completed - 95GB in 1742s
+2025-01-09 08:40:00 INFO INFO: Routine backup completed - 85GB in 2236s
+2025-01-09 09:00:00 INFO INFO: Routine backup completed - 124GB in 2284s
+2025-01-09 09:20:00 INFO INFO: Security scan completed - 126868 files scanned
+2025-01-09 09:40:00 INFO INFO: Routine backup completed - 144GB in 1563s
+2025-01-09 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-09 10:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 10:40:00 INFO INFO: Routine backup completed - 84GB in 2496s
+2025-01-09 11:00:00 INFO INFO: Security scan completed - 101979 files scanned
+2025-01-09 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 11:40:00 INFO INFO: User user3762 authenticated successfully from 192.168.95.251
+2025-01-09 12:00:00 INFO INFO: Routine backup completed - 193GB in 2127s
+2025-01-09 12:20:00 INFO INFO: Security scan completed - 288212 files scanned
+2025-01-09 12:40:00 INFO INFO: Security scan completed - 178340 files scanned
+2025-01-09 13:00:00 INFO INFO: Security scan completed - 433762 files scanned
+2025-01-09 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 13:40:00 INFO INFO: Security scan completed - 136664 files scanned
+2025-01-09 14:00:00 INFO INFO: Routine backup completed - 57GB in 2292s
+2025-01-09 14:20:00 INFO INFO: User user9139 authenticated successfully from 192.168.214.43
+2025-01-09 14:40:00 INFO INFO: Routine backup completed - 64GB in 1352s
+2025-01-09 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-09 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 15:40:00 INFO INFO: Security scan completed - 188985 files scanned
+2025-01-09 16:00:00 INFO INFO: System health check passed - all services normal
+2025-01-09 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-09 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-09 17:20:00 INFO INFO: Routine backup completed - 93GB in 1226s
+2025-01-09 17:40:00 INFO INFO: User user1965 authenticated successfully from 192.168.165.140
+2025-01-09 18:00:00 INFO INFO: User user1914 authenticated successfully from 192.168.14.216
+2025-01-09 18:20:00 INFO INFO: Routine backup completed - 180GB in 2642s
+2025-01-09 18:40:00 INFO INFO: Routine backup completed - 107GB in 2070s
+2025-01-09 19:00:00 INFO INFO: Routine backup completed - 150GB in 1067s
+2025-01-09 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-09 19:40:00 INFO INFO: Security scan completed - 107654 files scanned
+2025-01-09 20:00:00 INFO INFO: Routine backup completed - 146GB in 1056s
+2025-01-09 20:20:00 INFO INFO: Security scan completed - 478235 files scanned
+2025-01-09 20:40:00 INFO INFO: Routine backup completed - 175GB in 2813s
+2025-01-09 21:00:00 INFO INFO: User user4110 authenticated successfully from 192.168.201.182
+2025-01-09 21:20:00 INFO INFO: User user7229 authenticated successfully from 192.168.23.149
+2025-01-09 21:40:00 INFO INFO: User user2128 authenticated successfully from 192.168.149.213
+2025-01-09 22:00:00 INFO INFO: Routine backup completed - 92GB in 1099s
+2025-01-09 22:20:00 INFO INFO: User user4267 authenticated successfully from 192.168.49.218
+2025-01-09 22:40:00 INFO INFO: Security scan completed - 399456 files scanned
+2025-01-09 23:00:00 INFO INFO: Security scan completed - 350333 files scanned
+2025-01-09 23:20:00 INFO INFO: Routine backup completed - 77GB in 1552s
+2025-01-09 23:40:00 INFO INFO: Security scan completed - 434297 files scanned
+2025-01-10 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-10 00:20:00 INFO INFO: Routine backup completed - 140GB in 2333s
+2025-01-10 00:40:00 INFO INFO: Routine backup completed - 197GB in 2115s
+2025-01-10 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-10 01:20:00 INFO INFO: Security scan completed - 224093 files scanned
+2025-01-10 01:40:00 INFO INFO: User user2762 authenticated successfully from 192.168.143.11
+2025-01-10 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-10 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 02:40:00 INFO INFO: Security scan completed - 112659 files scanned
+2025-01-10 03:00:00 INFO INFO: User user3900 authenticated successfully from 192.168.98.108
+2025-01-10 03:20:00 INFO INFO: Security scan completed - 309313 files scanned
+2025-01-10 03:40:00 INFO INFO: Routine backup completed - 182GB in 2893s
+2025-01-10 04:00:00 INFO INFO: User user7655 authenticated successfully from 192.168.59.159
+2025-01-10 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 04:40:00 INFO INFO: Security scan completed - 376522 files scanned
+2025-01-10 05:00:00 INFO INFO: Routine backup completed - 83GB in 1379s
+2025-01-10 05:20:00 INFO INFO: Security scan completed - 256103 files scanned
+2025-01-10 05:40:00 INFO INFO: Security scan completed - 437694 files scanned
+2025-01-10 06:00:00 INFO INFO: User user5236 authenticated successfully from 192.168.201.42
+2025-01-10 06:20:00 INFO INFO: User user1300 authenticated successfully from 192.168.144.81
+2025-01-10 06:40:00 INFO INFO: User user4489 authenticated successfully from 192.168.247.110
+2025-01-10 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-10 07:20:00 INFO INFO: User user3606 authenticated successfully from 192.168.57.16
+2025-01-10 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 08:00:00 INFO INFO: Routine backup completed - 154GB in 2236s
+2025-01-10 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 08:40:00 INFO INFO: Security scan completed - 106451 files scanned
+2025-01-10 09:00:00 INFO INFO: Security scan completed - 125086 files scanned
+2025-01-10 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 09:40:00 INFO INFO: User user6954 authenticated successfully from 192.168.153.142
+2025-01-10 10:00:00 INFO INFO: Security scan completed - 287829 files scanned
+2025-01-10 10:20:00 INFO INFO: User user4790 authenticated successfully from 192.168.205.107
+2025-01-10 10:40:00 INFO INFO: Security scan completed - 402170 files scanned
+2025-01-10 11:00:00 INFO INFO: Security scan completed - 486239 files scanned
+2025-01-10 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 11:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 12:00:00 INFO INFO: Routine backup completed - 99GB in 1600s
+2025-01-10 12:20:00 INFO INFO: User user5291 authenticated successfully from 192.168.146.94
+2025-01-10 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 13:00:00 INFO INFO: Security scan completed - 242527 files scanned
+2025-01-10 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 14:00:00 INFO INFO: Routine backup completed - 110GB in 1840s
+2025-01-10 14:20:00 INFO INFO: Routine backup completed - 157GB in 1916s
+2025-01-10 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 15:00:00 INFO INFO: Routine backup completed - 99GB in 2818s
+2025-01-10 15:20:00 INFO INFO: Security scan completed - 179922 files scanned
+2025-01-10 15:40:00 INFO INFO: Routine backup completed - 141GB in 2677s
+2025-01-10 16:00:00 INFO INFO: Security scan completed - 449434 files scanned
+2025-01-10 16:20:00 INFO INFO: User user9164 authenticated successfully from 192.168.6.110
+2025-01-10 16:40:00 INFO INFO: Security scan completed - 438913 files scanned
+2025-01-10 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-10 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 17:40:00 INFO INFO: System health check passed - all services normal
+2025-01-10 18:00:00 INFO INFO: Security scan completed - 102979 files scanned
+2025-01-10 18:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 18:40:00 INFO INFO: Security scan completed - 397409 files scanned
+2025-01-10 19:00:00 INFO INFO: Security scan completed - 134485 files scanned
+2025-01-10 19:20:00 INFO INFO: User user4369 authenticated successfully from 192.168.217.14
+2025-01-10 19:40:00 INFO INFO: Security scan completed - 270745 files scanned
+2025-01-10 20:00:00 INFO INFO: User user3576 authenticated successfully from 192.168.12.166
+2025-01-10 20:20:00 INFO INFO: Security scan completed - 444268 files scanned
+2025-01-10 20:40:00 INFO INFO: Routine backup completed - 158GB in 2227s
+2025-01-10 21:00:00 INFO INFO: User user8294 authenticated successfully from 192.168.175.179
+2025-01-10 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 21:40:00 INFO INFO: User user7374 authenticated successfully from 192.168.106.108
+2025-01-10 22:00:00 INFO INFO: User user2683 authenticated successfully from 192.168.41.214
+2025-01-10 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 22:40:00 INFO INFO: Routine backup completed - 86GB in 1562s
+2025-01-10 23:00:00 INFO INFO: User user5810 authenticated successfully from 192.168.142.187
+2025-01-10 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-10 23:40:00 INFO INFO: User user4613 authenticated successfully from 192.168.100.119
+2025-01-11 00:00:00 INFO INFO: Security scan completed - 211126 files scanned
+2025-01-11 00:20:00 INFO INFO: Security scan completed - 258656 files scanned
+2025-01-11 00:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 01:00:00 INFO INFO: Security scan completed - 477194 files scanned
+2025-01-11 01:20:00 INFO INFO: User user7396 authenticated successfully from 192.168.191.242
+2025-01-11 01:40:00 INFO INFO: Routine backup completed - 158GB in 2228s
+2025-01-11 02:00:00 INFO INFO: Routine backup completed - 177GB in 1238s
+2025-01-11 02:20:00 INFO INFO: User user9305 authenticated successfully from 192.168.59.182
+2025-01-11 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 03:20:00 INFO INFO: Routine backup completed - 173GB in 2152s
+2025-01-11 03:40:00 INFO INFO: Security scan completed - 469283 files scanned
+2025-01-11 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-11 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 05:00:00 INFO INFO: Routine backup completed - 78GB in 1921s
+2025-01-11 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-11 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 06:00:00 INFO INFO: User user1379 authenticated successfully from 192.168.233.99
+2025-01-11 06:20:00 INFO INFO: Routine backup completed - 127GB in 2981s
+2025-01-11 06:40:00 INFO INFO: Security scan completed - 273149 files scanned
+2025-01-11 07:00:00 INFO INFO: Security scan completed - 401973 files scanned
+2025-01-11 07:20:00 INFO INFO: Routine backup completed - 67GB in 1751s
+2025-01-11 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 08:20:00 INFO INFO: Routine backup completed - 186GB in 2492s
+2025-01-11 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 09:00:00 INFO INFO: User user8664 authenticated successfully from 192.168.3.16
+2025-01-11 09:20:00 INFO INFO: Routine backup completed - 107GB in 2876s
+2025-01-11 09:40:00 INFO INFO: Security scan completed - 188987 files scanned
+2025-01-11 10:00:00 INFO INFO: User user6858 authenticated successfully from 192.168.165.152
+2025-01-11 10:20:00 INFO INFO: User user6915 authenticated successfully from 192.168.132.90
+2025-01-11 10:40:00 INFO INFO: Security scan completed - 182227 files scanned
+2025-01-11 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 11:20:00 INFO INFO: User user7947 authenticated successfully from 192.168.243.137
+2025-01-11 11:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 12:20:00 INFO INFO: Routine backup completed - 101GB in 2632s
+2025-01-11 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 13:00:00 INFO INFO: Routine backup completed - 81GB in 2977s
+2025-01-11 13:20:00 INFO INFO: Routine backup completed - 171GB in 1672s
+2025-01-11 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 14:00:00 INFO INFO: Routine backup completed - 56GB in 1603s
+2025-01-11 14:20:00 INFO INFO: Security scan completed - 497500 files scanned
+2025-01-11 14:40:00 INFO INFO: Routine backup completed - 145GB in 1105s
+2025-01-11 15:00:00 INFO INFO: Security scan completed - 223398 files scanned
+2025-01-11 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-11 15:40:00 INFO INFO: User user9122 authenticated successfully from 192.168.150.111
+2025-01-11 16:00:00 INFO INFO: Routine backup completed - 86GB in 1483s
+2025-01-11 16:20:00 INFO INFO: User user5344 authenticated successfully from 192.168.5.112
+2025-01-11 16:40:00 INFO INFO: Security scan completed - 497460 files scanned
+2025-01-11 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 17:20:00 INFO INFO: User user3020 authenticated successfully from 192.168.5.209
+2025-01-11 17:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 18:00:00 INFO INFO: Security scan completed - 315429 files scanned
+2025-01-11 18:20:00 INFO INFO: User user5312 authenticated successfully from 192.168.4.218
+2025-01-11 18:40:00 INFO INFO: Routine backup completed - 59GB in 1302s
+2025-01-11 19:00:00 INFO INFO: Security scan completed - 263027 files scanned
+2025-01-11 19:20:00 INFO INFO: User user4231 authenticated successfully from 192.168.69.1
+2025-01-11 19:40:00 INFO INFO: Security scan completed - 464219 files scanned
+2025-01-11 20:00:00 INFO INFO: Security scan completed - 378578 files scanned
+2025-01-11 20:20:00 INFO INFO: User user2367 authenticated successfully from 192.168.7.122
+2025-01-11 20:40:00 INFO INFO: User user4081 authenticated successfully from 192.168.131.144
+2025-01-11 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-11 21:40:00 INFO INFO: Security scan completed - 224760 files scanned
+2025-01-11 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-11 22:20:00 INFO INFO: Security scan completed - 491493 files scanned
+2025-01-11 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-11 23:00:00 INFO INFO: Routine backup completed - 97GB in 1096s
+2025-01-11 23:20:00 INFO INFO: Security scan completed - 447419 files scanned
+2025-01-11 23:40:00 INFO INFO: Routine backup completed - 156GB in 2340s
+2025-01-12 00:00:00 INFO INFO: Routine backup completed - 173GB in 2552s
+2025-01-12 00:20:00 INFO INFO: Routine backup completed - 137GB in 2749s
+2025-01-12 00:40:00 INFO INFO: User user7823 authenticated successfully from 192.168.221.148
+2025-01-12 01:00:00 INFO INFO: User user4541 authenticated successfully from 192.168.58.181
+2025-01-12 01:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 02:00:00 INFO INFO: User user4889 authenticated successfully from 192.168.166.138
+2025-01-12 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 02:40:00 INFO INFO: Security scan completed - 395187 files scanned
+2025-01-12 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-12 03:20:00 INFO INFO: User user3974 authenticated successfully from 192.168.52.248
+2025-01-12 03:40:00 INFO INFO: Security scan completed - 198618 files scanned
+2025-01-12 04:00:00 INFO INFO: Security scan completed - 325315 files scanned
+2025-01-12 04:20:00 INFO INFO: Routine backup completed - 66GB in 2565s
+2025-01-12 04:40:00 INFO INFO: Security scan completed - 327827 files scanned
+2025-01-12 05:00:00 INFO INFO: Security scan completed - 244858 files scanned
+2025-01-12 05:20:00 INFO INFO: Routine backup completed - 68GB in 1013s
+2025-01-12 05:40:00 INFO INFO: Routine backup completed - 65GB in 1657s
+2025-01-12 06:00:00 INFO INFO: Routine backup completed - 139GB in 1625s
+2025-01-12 06:20:00 INFO INFO: Routine backup completed - 78GB in 2144s
+2025-01-12 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 07:00:00 INFO INFO: Security scan completed - 369862 files scanned
+2025-01-12 07:20:00 INFO INFO: Routine backup completed - 104GB in 1663s
+2025-01-12 07:40:00 INFO INFO: Routine backup completed - 120GB in 2775s
+2025-01-12 08:00:00 INFO INFO: Security scan completed - 259083 files scanned
+2025-01-12 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 08:40:00 INFO INFO: User user8513 authenticated successfully from 192.168.124.175
+2025-01-12 09:00:00 INFO INFO: Security scan completed - 485977 files scanned
+2025-01-12 09:20:00 INFO INFO: User user3213 authenticated successfully from 192.168.64.29
+2025-01-12 09:40:00 INFO INFO: Security scan completed - 337617 files scanned
+2025-01-12 10:00:00 INFO INFO: Security scan completed - 327725 files scanned
+2025-01-12 10:20:00 INFO INFO: Security scan completed - 156381 files scanned
+2025-01-12 10:40:00 INFO INFO: User user6922 authenticated successfully from 192.168.10.220
+2025-01-12 11:00:00 INFO INFO: Routine backup completed - 151GB in 2756s
+2025-01-12 11:20:00 INFO INFO: User user8568 authenticated successfully from 192.168.7.214
+2025-01-12 11:40:00 INFO INFO: Routine backup completed - 69GB in 2060s
+2025-01-12 12:00:00 INFO INFO: Routine backup completed - 194GB in 2928s
+2025-01-12 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 12:40:00 INFO INFO: User user8722 authenticated successfully from 192.168.129.59
+2025-01-12 13:00:00 INFO INFO: Routine backup completed - 92GB in 1816s
+2025-01-12 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 14:00:00 INFO INFO: Routine backup completed - 163GB in 1626s
+2025-01-12 14:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 14:40:00 INFO INFO: Routine backup completed - 115GB in 1711s
+2025-01-12 15:00:00 INFO INFO: Routine backup completed - 159GB in 2032s
+2025-01-12 15:20:00 INFO INFO: Routine backup completed - 166GB in 1498s
+2025-01-12 15:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 16:00:00 INFO INFO: User user1371 authenticated successfully from 192.168.89.42
+2025-01-12 16:20:00 INFO INFO: User user2928 authenticated successfully from 192.168.71.53
+2025-01-12 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 17:00:00 INFO INFO: User user3869 authenticated successfully from 192.168.105.61
+2025-01-12 17:20:00 INFO INFO: User user1216 authenticated successfully from 192.168.68.107
+2025-01-12 17:40:00 INFO INFO: User user1877 authenticated successfully from 192.168.201.12
+2025-01-12 18:00:00 INFO INFO: Routine backup completed - 121GB in 1213s
+2025-01-12 18:20:00 INFO INFO: User user2596 authenticated successfully from 192.168.30.25
+2025-01-12 18:40:00 INFO INFO: Security scan completed - 497220 files scanned
+2025-01-12 19:00:00 INFO INFO: Security scan completed - 392997 files scanned
+2025-01-12 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 20:00:00 INFO INFO: Routine backup completed - 169GB in 1111s
+2025-01-12 20:20:00 INFO INFO: Security scan completed - 361956 files scanned
+2025-01-12 20:40:00 INFO INFO: User user8855 authenticated successfully from 192.168.206.70
+2025-01-12 21:00:00 INFO INFO: User user2821 authenticated successfully from 192.168.54.84
+2025-01-12 21:20:00 INFO INFO: Routine backup completed - 163GB in 2835s
+2025-01-12 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-12 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-12 22:20:00 INFO INFO: Security scan completed - 210956 files scanned
+2025-01-12 22:40:00 INFO INFO: Routine backup completed - 131GB in 1037s
+2025-01-12 23:00:00 INFO INFO: Routine backup completed - 87GB in 2384s
+2025-01-12 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-12 23:40:00 INFO INFO: Security scan completed - 312058 files scanned
+2025-01-13 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-13 00:20:00 INFO INFO: Routine backup completed - 178GB in 2396s
+2025-01-13 00:40:00 INFO INFO: Routine backup completed - 92GB in 2401s
+2025-01-13 01:00:00 INFO INFO: User user3847 authenticated successfully from 192.168.52.91
+2025-01-13 01:20:00 INFO INFO: User user2254 authenticated successfully from 192.168.107.157
+2025-01-13 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-13 02:00:00 INFO INFO: Security scan completed - 388775 files scanned
+2025-01-13 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-13 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-13 03:00:00 INFO INFO: User user6897 authenticated successfully from 192.168.224.242
+2025-01-13 03:20:00 INFO INFO: User user6879 authenticated successfully from 192.168.29.201
+2025-01-13 03:40:00 INFO INFO: Routine backup completed - 144GB in 2321s
+2025-01-13 04:00:00 INFO INFO: User user9918 authenticated successfully from 192.168.143.104
+2025-01-13 04:20:00 INFO INFO: Security scan completed - 111273 files scanned
+2025-01-13 04:40:00 INFO INFO: Security scan completed - 298806 files scanned
+2025-01-13 05:00:00 INFO INFO: User user2901 authenticated successfully from 192.168.154.131
+2025-01-13 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-13 05:40:00 INFO INFO: Security scan completed - 460585 files scanned
+2025-01-13 06:00:00 INFO INFO: User user7366 authenticated successfully from 192.168.47.71
+2025-01-13 06:20:00 INFO INFO: Routine backup completed - 86GB in 1301s
+2025-01-13 06:40:00 INFO INFO: User user5748 authenticated successfully from 192.168.168.221
+2025-01-13 07:00:00 INFO INFO: Routine backup completed - 108GB in 2872s
+2025-01-13 07:20:00 INFO INFO: Routine backup completed - 145GB in 2183s
+2025-01-13 07:40:00 INFO INFO: User user7885 authenticated successfully from 192.168.138.87
+2025-01-13 08:00:00 INFO INFO: Routine backup completed - 71GB in 2881s
+2025-01-13 08:20:00 INFO INFO: Security scan completed - 313584 files scanned
+2025-01-13 08:40:00 INFO INFO: Security scan completed - 125007 files scanned
+2025-01-13 09:00:00 INFO INFO: Routine backup completed - 160GB in 1944s
+2025-01-13 09:20:00 INFO INFO: Routine backup completed - 140GB in 1432s
+2025-01-13 09:40:00 INFO INFO: User user7358 authenticated successfully from 192.168.86.213
+2025-01-13 10:00:00 INFO INFO: User user5758 authenticated successfully from 192.168.160.225
+2025-01-13 10:20:00 INFO INFO: Routine backup completed - 57GB in 2257s
+2025-01-13 10:40:00 INFO INFO: Security scan completed - 454662 files scanned
+2025-01-13 11:00:00 INFO INFO: Routine backup completed - 168GB in 1622s
+2025-01-13 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-13 11:40:00 INFO INFO: User user1716 authenticated successfully from 192.168.207.151
+2025-01-13 12:00:00 INFO INFO: Routine backup completed - 189GB in 2541s
+2025-01-13 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-13 12:40:00 INFO INFO: User user8554 authenticated successfully from 192.168.152.2
+2025-01-13 13:00:00 INFO INFO: Security scan completed - 438661 files scanned
+2025-01-13 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-13 13:40:00 INFO INFO: Routine backup completed - 57GB in 2304s
+2025-01-13 14:00:00 INFO INFO: System health check passed - all services normal
+2025-01-13 14:20:00 INFO INFO: User user9270 authenticated successfully from 192.168.133.104
+2025-01-13 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-13 15:00:00 INFO INFO: Routine backup completed - 93GB in 1048s
+2025-01-13 15:20:00 INFO INFO: Security scan completed - 487899 files scanned
+2025-01-13 15:40:00 INFO INFO: Routine backup completed - 58GB in 1303s
+2025-01-13 16:00:00 INFO INFO: Security scan completed - 235400 files scanned
+2025-01-13 16:20:00 INFO INFO: User user4460 authenticated successfully from 192.168.254.253
+2025-01-13 16:40:00 INFO INFO: Security scan completed - 160086 files scanned
+2025-01-13 17:00:00 INFO INFO: Security scan completed - 292084 files scanned
+2025-01-13 17:20:00 INFO INFO: Routine backup completed - 149GB in 2071s
+2025-01-13 17:40:00 INFO INFO: Routine backup completed - 68GB in 1773s
+2025-01-13 18:00:00 INFO INFO: User user2425 authenticated successfully from 192.168.200.113
+2025-01-13 18:20:00 INFO INFO: Security scan completed - 110838 files scanned
+2025-01-13 18:40:00 INFO INFO: Routine backup completed - 71GB in 1461s
+2025-01-13 19:00:00 INFO INFO: Security scan completed - 486717 files scanned
+2025-01-13 19:20:00 INFO INFO: Routine backup completed - 147GB in 2451s
+2025-01-13 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-13 20:00:00 INFO INFO: User user3041 authenticated successfully from 192.168.231.49
+2025-01-13 20:20:00 INFO INFO: Routine backup completed - 113GB in 1896s
+2025-01-13 20:40:00 INFO INFO: Security scan completed - 288219 files scanned
+2025-01-13 21:00:00 INFO INFO: Routine backup completed - 170GB in 1367s
+2025-01-13 21:20:00 INFO INFO: Security scan completed - 151038 files scanned
+2025-01-13 21:40:00 INFO INFO: Security scan completed - 342796 files scanned
+2025-01-13 22:00:00 INFO INFO: User user9814 authenticated successfully from 192.168.224.40
+2025-01-13 22:20:00 INFO INFO: Routine backup completed - 129GB in 1119s
+2025-01-13 22:40:00 INFO INFO: Routine backup completed - 147GB in 2828s
+2025-01-13 23:00:00 INFO INFO: User user9781 authenticated successfully from 192.168.126.106
+2025-01-13 23:20:00 INFO INFO: User user8990 authenticated successfully from 192.168.19.72
+2025-01-13 23:40:00 INFO INFO: Security scan completed - 109932 files scanned
+2025-01-14 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-14 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 00:40:00 INFO INFO: Routine backup completed - 59GB in 1896s
+2025-01-14 01:00:00 INFO INFO: Routine backup completed - 107GB in 1879s
+2025-01-14 01:20:00 INFO INFO: User user7088 authenticated successfully from 192.168.168.2
+2025-01-14 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-14 02:00:00 INFO INFO: User user2525 authenticated successfully from 192.168.226.15
+2025-01-14 02:20:00 INFO INFO: Routine backup completed - 89GB in 1817s
+2025-01-14 02:40:00 INFO INFO: Security scan completed - 431695 files scanned
+2025-01-14 03:00:00 INFO INFO: Security scan completed - 170453 files scanned
+2025-01-14 03:20:00 INFO INFO: Routine backup completed - 60GB in 1582s
+2025-01-14 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-14 04:00:00 INFO INFO: Routine backup completed - 101GB in 1343s
+2025-01-14 04:20:00 INFO INFO: Security scan completed - 368755 files scanned
+2025-01-14 04:40:00 INFO INFO: Security scan completed - 164228 files scanned
+2025-01-14 05:00:00 INFO INFO: User user7591 authenticated successfully from 192.168.129.108
+2025-01-14 05:20:00 INFO INFO: Security scan completed - 330148 files scanned
+2025-01-14 05:40:00 INFO INFO: User user7538 authenticated successfully from 192.168.141.245
+2025-01-14 06:00:00 INFO INFO: Routine backup completed - 192GB in 2279s
+2025-01-14 06:20:00 INFO INFO: User user5692 authenticated successfully from 192.168.72.151
+2025-01-14 06:40:00 INFO INFO: User user2212 authenticated successfully from 192.168.176.210
+2025-01-14 07:00:00 INFO INFO: Security scan completed - 152532 files scanned
+2025-01-14 07:20:00 INFO INFO: Security scan completed - 216057 files scanned
+2025-01-14 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-14 08:00:00 INFO INFO: Security scan completed - 437905 files scanned
+2025-01-14 08:20:00 INFO INFO: Routine backup completed - 155GB in 1843s
+2025-01-14 08:40:00 INFO INFO: User user5980 authenticated successfully from 192.168.27.220
+2025-01-14 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-14 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 09:40:00 INFO INFO: Security scan completed - 222939 files scanned
+2025-01-14 10:00:00 INFO INFO: Routine backup completed - 163GB in 2900s
+2025-01-14 10:20:00 INFO INFO: Routine backup completed - 141GB in 2741s
+2025-01-14 10:40:00 INFO INFO: Security scan completed - 393260 files scanned
+2025-01-14 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-14 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 11:40:00 INFO INFO: Routine backup completed - 190GB in 1279s
+2025-01-14 12:00:00 INFO INFO: User user8212 authenticated successfully from 192.168.17.122
+2025-01-14 12:20:00 INFO INFO: Routine backup completed - 123GB in 2010s
+2025-01-14 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-14 13:00:00 INFO INFO: Routine backup completed - 50GB in 2290s
+2025-01-14 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 13:40:00 INFO INFO: Routine backup completed - 158GB in 1642s
+2025-01-14 14:00:00 INFO INFO: Security scan completed - 100991 files scanned
+2025-01-14 14:20:00 INFO INFO: Security scan completed - 117870 files scanned
+2025-01-14 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-14 15:00:00 INFO INFO: Routine backup completed - 184GB in 2945s
+2025-01-14 15:20:00 INFO INFO: Security scan completed - 490357 files scanned
+2025-01-14 15:40:00 INFO INFO: Routine backup completed - 94GB in 2446s
+2025-01-14 16:00:00 INFO INFO: Routine backup completed - 199GB in 2620s
+2025-01-14 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 16:40:00 INFO INFO: Routine backup completed - 195GB in 2755s
+2025-01-14 17:00:00 INFO INFO: User user5690 authenticated successfully from 192.168.151.222
+2025-01-14 17:20:00 INFO INFO: Routine backup completed - 157GB in 1192s
+2025-01-14 17:40:00 INFO INFO: Routine backup completed - 184GB in 1399s
+2025-01-14 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-14 18:20:00 INFO INFO: User user7206 authenticated successfully from 192.168.167.95
+2025-01-14 18:40:00 INFO INFO: Routine backup completed - 141GB in 2467s
+2025-01-14 19:00:00 INFO INFO: Security scan completed - 452461 files scanned
+2025-01-14 19:20:00 INFO INFO: Security scan completed - 185868 files scanned
+2025-01-14 19:40:00 INFO INFO: User user2462 authenticated successfully from 192.168.56.99
+2025-01-14 20:00:00 INFO INFO: User user1385 authenticated successfully from 192.168.86.134
+2025-01-14 20:20:00 INFO INFO: Security scan completed - 251213 files scanned
+2025-01-14 20:40:00 INFO INFO: Routine backup completed - 156GB in 2049s
+2025-01-14 21:00:00 INFO INFO: User user7737 authenticated successfully from 192.168.170.23
+2025-01-14 21:20:00 INFO INFO: Routine backup completed - 173GB in 2708s
+2025-01-14 21:40:00 INFO INFO: Security scan completed - 475716 files scanned
+2025-01-14 22:00:00 INFO INFO: User user7999 authenticated successfully from 192.168.204.28
+2025-01-14 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-14 22:40:00 INFO INFO: User user1466 authenticated successfully from 192.168.96.31
+2025-01-14 23:00:00 INFO INFO: Routine backup completed - 105GB in 1183s
+2025-01-14 23:20:00 INFO INFO: Routine backup completed - 149GB in 2567s
+2025-01-14 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-15 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 00:20:00 INFO INFO: User user7697 authenticated successfully from 192.168.243.220
+2025-01-15 00:40:00 INFO INFO: Security scan completed - 187905 files scanned
+2025-01-15 01:00:00 INFO INFO: Security scan completed - 272563 files scanned
+2025-01-15 01:20:00 INFO INFO: Routine backup completed - 73GB in 1682s
+2025-01-15 01:40:00 INFO INFO: Routine backup completed - 141GB in 1094s
+2025-01-15 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 02:20:00 INFO INFO: Routine backup completed - 165GB in 1581s
+2025-01-15 02:40:00 INFO INFO: Security scan completed - 341390 files scanned
+2025-01-15 03:00:00 INFO INFO: User user3260 authenticated successfully from 192.168.13.43
+2025-01-15 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-15 03:40:00 INFO INFO: User user1087 authenticated successfully from 192.168.18.56
+2025-01-15 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-15 04:40:00 INFO INFO: Routine backup completed - 125GB in 2531s
+2025-01-15 05:00:00 INFO INFO: Security scan completed - 148037 files scanned
+2025-01-15 05:20:00 INFO INFO: Security scan completed - 136930 files scanned
+2025-01-15 05:40:00 INFO INFO: Security scan completed - 372209 files scanned
+2025-01-15 06:00:00 INFO INFO: Security scan completed - 398908 files scanned
+2025-01-15 06:20:00 INFO INFO: Routine backup completed - 179GB in 1613s
+2025-01-15 06:40:00 INFO INFO: System health check passed - all services normal
+2025-01-15 07:00:00 INFO INFO: Security scan completed - 232514 files scanned
+2025-01-15 07:20:00 INFO INFO: Routine backup completed - 69GB in 1889s
+2025-01-15 07:40:00 INFO INFO: Security scan completed - 311456 files scanned
+2025-01-15 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 08:20:00 INFO INFO: Security scan completed - 457041 files scanned
+2025-01-15 08:40:00 INFO INFO: Routine backup completed - 57GB in 2870s
+2025-01-15 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 09:20:00 INFO INFO: User user3991 authenticated successfully from 192.168.149.195
+2025-01-15 09:40:00 INFO INFO: Security scan completed - 465468 files scanned
+2025-01-15 10:00:00 INFO INFO: Security scan completed - 106825 files scanned
+2025-01-15 10:20:00 INFO INFO: Routine backup completed - 165GB in 2306s
+2025-01-15 10:40:00 INFO INFO: Routine backup completed - 189GB in 2314s
+2025-01-15 11:00:00 INFO INFO: Routine backup completed - 126GB in 1399s
+2025-01-15 11:20:00 INFO INFO: Security scan completed - 334227 files scanned
+2025-01-15 11:40:00 INFO INFO: Security scan completed - 353532 files scanned
+2025-01-15 12:00:00 INFO INFO: Security scan completed - 166599 files scanned
+2025-01-15 12:20:00 INFO INFO: Security scan completed - 217413 files scanned
+2025-01-15 12:40:00 INFO INFO: User user5988 authenticated successfully from 192.168.214.158
+2025-01-15 13:00:00 ERROR CRITICAL: CPU utilization at 97% - service degradation likely
+2025-01-15 13:20:00 ERROR CRITICAL: CPU utilization at 92% - service degradation likely
+2025-01-15 13:40:00 ERROR ALERT: CPU saturation causing 2229ms response time delays
+2025-01-15 14:00:00 ERROR CRITICAL: CPU utilization at 93% - service degradation likely
+2025-01-15 14:20:00 ERROR ALERT: CPU saturation causing 1566ms response time delays
+2025-01-15 14:40:00 ERROR ALERT: CPU saturation causing 2326ms response time delays
+2025-01-15 15:00:00 ERROR CRITICAL: CPU utilization at 92% - service degradation likely
+2025-01-15 15:20:00 INFO INFO: User user5389 authenticated successfully from 192.168.246.220
+2025-01-15 15:40:00 INFO INFO: Routine backup completed - 114GB in 2309s
+2025-01-15 16:00:00 INFO INFO: User user8988 authenticated successfully from 192.168.230.75
+2025-01-15 16:20:00 INFO INFO: Security scan completed - 382337 files scanned
+2025-01-15 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-15 17:00:00 INFO INFO: Security scan completed - 274371 files scanned
+2025-01-15 17:20:00 INFO INFO: User user2201 authenticated successfully from 192.168.242.233
+2025-01-15 17:40:00 INFO INFO: User user9403 authenticated successfully from 192.168.159.195
+2025-01-15 18:00:00 INFO INFO: Security scan completed - 124143 files scanned
+2025-01-15 18:20:00 INFO INFO: Routine backup completed - 186GB in 2850s
+2025-01-15 18:40:00 INFO INFO: Security scan completed - 424862 files scanned
+2025-01-15 19:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 19:20:00 INFO INFO: User user2161 authenticated successfully from 192.168.140.125
+2025-01-15 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-15 20:00:00 INFO INFO: Security scan completed - 248206 files scanned
+2025-01-15 20:20:00 INFO INFO: System health check passed - all services normal
+2025-01-15 20:40:00 INFO INFO: Security scan completed - 439357 files scanned
+2025-01-15 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-15 21:20:00 INFO INFO: User user5649 authenticated successfully from 192.168.114.98
+2025-01-15 21:40:00 INFO INFO: User user3234 authenticated successfully from 192.168.40.231
+2025-01-15 22:00:00 INFO INFO: User user4395 authenticated successfully from 192.168.89.204
+2025-01-15 22:20:00 INFO INFO: Security scan completed - 190791 files scanned
+2025-01-15 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-15 23:00:00 INFO INFO: Security scan completed - 182176 files scanned
+2025-01-15 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-15 23:40:00 INFO INFO: Security scan completed - 296255 files scanned
+2025-01-16 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 00:20:00 INFO INFO: Routine backup completed - 86GB in 2153s
+2025-01-16 00:40:00 INFO INFO: Security scan completed - 341259 files scanned
+2025-01-16 01:00:00 INFO INFO: Routine backup completed - 174GB in 1897s
+2025-01-16 01:20:00 INFO INFO: Routine backup completed - 105GB in 1455s
+2025-01-16 01:40:00 INFO INFO: User user9259 authenticated successfully from 192.168.87.161
+2025-01-16 02:00:00 INFO INFO: Routine backup completed - 191GB in 1021s
+2025-01-16 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-16 02:40:00 INFO INFO: Routine backup completed - 175GB in 2878s
+2025-01-16 03:00:00 INFO INFO: Routine backup completed - 146GB in 2541s
+2025-01-16 03:20:00 INFO INFO: Security scan completed - 168705 files scanned
+2025-01-16 03:40:00 INFO INFO: Security scan completed - 182193 files scanned
+2025-01-16 04:00:00 INFO INFO: Security scan completed - 193816 files scanned
+2025-01-16 04:20:00 INFO INFO: User user6670 authenticated successfully from 192.168.56.54
+2025-01-16 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-16 05:00:00 INFO INFO: User user7004 authenticated successfully from 192.168.120.189
+2025-01-16 05:20:00 INFO INFO: Routine backup completed - 114GB in 2751s
+2025-01-16 05:40:00 INFO INFO: Routine backup completed - 141GB in 1377s
+2025-01-16 06:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 06:20:00 INFO INFO: Security scan completed - 265249 files scanned
+2025-01-16 06:40:00 INFO INFO: Security scan completed - 454525 files scanned
+2025-01-16 07:00:00 INFO INFO: Routine backup completed - 138GB in 1459s
+2025-01-16 07:20:00 INFO INFO: Routine backup completed - 97GB in 1727s
+2025-01-16 07:40:00 INFO INFO: Security scan completed - 188809 files scanned
+2025-01-16 08:00:00 INFO INFO: User user5065 authenticated successfully from 192.168.236.16
+2025-01-16 08:20:00 INFO INFO: Security scan completed - 487091 files scanned
+2025-01-16 08:40:00 INFO INFO: Routine backup completed - 158GB in 1334s
+2025-01-16 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-16 09:40:00 INFO INFO: Security scan completed - 165032 files scanned
+2025-01-16 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 10:20:00 INFO INFO: Security scan completed - 251851 files scanned
+2025-01-16 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-16 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 11:20:00 INFO INFO: Routine backup completed - 75GB in 1472s
+2025-01-16 11:40:00 INFO INFO: Routine backup completed - 96GB in 2766s
+2025-01-16 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-16 12:40:00 INFO INFO: Security scan completed - 490658 files scanned
+2025-01-16 13:00:00 INFO INFO: Routine backup completed - 105GB in 1309s
+2025-01-16 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-16 13:40:00 INFO INFO: User user7795 authenticated successfully from 192.168.194.63
+2025-01-16 14:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 14:20:00 INFO INFO: Routine backup completed - 68GB in 1714s
+2025-01-16 14:40:00 INFO INFO: Routine backup completed - 123GB in 1744s
+2025-01-16 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-16 15:40:00 INFO INFO: Security scan completed - 229226 files scanned
+2025-01-16 16:00:00 INFO INFO: Security scan completed - 494867 files scanned
+2025-01-16 16:20:00 INFO INFO: User user7036 authenticated successfully from 192.168.88.250
+2025-01-16 16:40:00 INFO INFO: User user4440 authenticated successfully from 192.168.43.28
+2025-01-16 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 17:20:00 INFO INFO: Routine backup completed - 174GB in 1679s
+2025-01-16 17:40:00 INFO INFO: User user7701 authenticated successfully from 192.168.110.243
+2025-01-16 18:00:00 INFO INFO: Security scan completed - 253438 files scanned
+2025-01-16 18:20:00 INFO INFO: User user9519 authenticated successfully from 192.168.254.106
+2025-01-16 18:40:00 INFO INFO: Security scan completed - 125005 files scanned
+2025-01-16 19:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 19:20:00 INFO INFO: Routine backup completed - 174GB in 2927s
+2025-01-16 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-16 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-16 20:20:00 INFO INFO: User user2976 authenticated successfully from 192.168.181.197
+2025-01-16 20:40:00 INFO INFO: User user2863 authenticated successfully from 192.168.48.112
+2025-01-16 21:00:00 INFO INFO: Routine backup completed - 79GB in 1703s
+2025-01-16 21:20:00 INFO INFO: Security scan completed - 448914 files scanned
+2025-01-16 21:40:00 INFO INFO: Routine backup completed - 89GB in 2944s
+2025-01-16 22:00:00 INFO INFO: Security scan completed - 273137 files scanned
+2025-01-16 22:20:00 INFO INFO: Security scan completed - 370030 files scanned
+2025-01-16 22:40:00 INFO INFO: User user7630 authenticated successfully from 192.168.231.70
+2025-01-16 23:00:00 INFO INFO: Routine backup completed - 182GB in 2535s
+2025-01-16 23:20:00 INFO INFO: Security scan completed - 452097 files scanned
+2025-01-16 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-17 00:20:00 INFO INFO: Routine backup completed - 199GB in 1426s
+2025-01-17 00:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 01:00:00 INFO INFO: Routine backup completed - 54GB in 2408s
+2025-01-17 01:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 02:00:00 INFO INFO: User user7502 authenticated successfully from 192.168.174.78
+2025-01-17 02:20:00 INFO INFO: User user3927 authenticated successfully from 192.168.56.103
+2025-01-17 02:40:00 INFO INFO: User user6261 authenticated successfully from 192.168.139.200
+2025-01-17 03:00:00 INFO INFO: User user1643 authenticated successfully from 192.168.216.40
+2025-01-17 03:20:00 INFO INFO: Security scan completed - 394026 files scanned
+2025-01-17 03:40:00 INFO INFO: User user5926 authenticated successfully from 192.168.148.193
+2025-01-17 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-17 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 04:40:00 INFO INFO: Security scan completed - 442925 files scanned
+2025-01-17 05:00:00 INFO INFO: User user3375 authenticated successfully from 192.168.159.200
+2025-01-17 05:20:00 INFO INFO: User user8135 authenticated successfully from 192.168.236.149
+2025-01-17 05:40:00 INFO INFO: Routine backup completed - 79GB in 1038s
+2025-01-17 06:00:00 INFO INFO: Security scan completed - 172741 files scanned
+2025-01-17 06:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 06:40:00 INFO INFO: Routine backup completed - 150GB in 2591s
+2025-01-17 07:00:00 INFO INFO: Security scan completed - 318619 files scanned
+2025-01-17 07:20:00 INFO INFO: Routine backup completed - 76GB in 1399s
+2025-01-17 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 08:00:00 INFO INFO: Security scan completed - 417994 files scanned
+2025-01-17 08:20:00 INFO INFO: Security scan completed - 465416 files scanned
+2025-01-17 08:40:00 INFO INFO: Routine backup completed - 63GB in 2215s
+2025-01-17 09:00:00 INFO INFO: Routine backup completed - 180GB in 2671s
+2025-01-17 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 09:40:00 INFO INFO: User user7613 authenticated successfully from 192.168.147.138
+2025-01-17 10:00:00 INFO INFO: Routine backup completed - 57GB in 1036s
+2025-01-17 10:20:00 INFO INFO: Security scan completed - 301581 files scanned
+2025-01-17 10:40:00 INFO INFO: Routine backup completed - 151GB in 1069s
+2025-01-17 11:00:00 INFO INFO: User user7271 authenticated successfully from 192.168.24.105
+2025-01-17 11:20:00 INFO INFO: User user3043 authenticated successfully from 192.168.154.94
+2025-01-17 11:40:00 INFO INFO: Security scan completed - 143772 files scanned
+2025-01-17 12:00:00 INFO INFO: Routine backup completed - 175GB in 2646s
+2025-01-17 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 12:40:00 INFO INFO: Security scan completed - 366567 files scanned
+2025-01-17 13:00:00 INFO INFO: User user4441 authenticated successfully from 192.168.172.22
+2025-01-17 13:20:00 INFO INFO: Security scan completed - 334567 files scanned
+2025-01-17 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 14:00:00 INFO INFO: Routine backup completed - 140GB in 1414s
+2025-01-17 14:20:00 INFO INFO: User user2930 authenticated successfully from 192.168.69.20
+2025-01-17 14:40:00 INFO INFO: User user9918 authenticated successfully from 192.168.208.88
+2025-01-17 15:00:00 INFO INFO: Security scan completed - 189056 files scanned
+2025-01-17 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 15:40:00 INFO INFO: Security scan completed - 477455 files scanned
+2025-01-17 16:00:00 INFO INFO: Security scan completed - 475841 files scanned
+2025-01-17 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 16:40:00 INFO INFO: User user1930 authenticated successfully from 192.168.159.245
+2025-01-17 17:00:00 INFO INFO: User user5955 authenticated successfully from 192.168.44.128
+2025-01-17 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-17 17:40:00 INFO INFO: Security scan completed - 214674 files scanned
+2025-01-17 18:00:00 INFO INFO: Security scan completed - 418467 files scanned
+2025-01-17 18:20:00 INFO INFO: User user9518 authenticated successfully from 192.168.122.199
+2025-01-17 18:40:00 INFO INFO: User user4031 authenticated successfully from 192.168.106.206
+2025-01-17 19:00:00 INFO INFO: User user8703 authenticated successfully from 192.168.30.233
+2025-01-17 19:20:00 INFO INFO: Routine backup completed - 190GB in 1668s
+2025-01-17 19:40:00 INFO INFO: User user6469 authenticated successfully from 192.168.202.251
+2025-01-17 20:00:00 INFO INFO: Routine backup completed - 122GB in 2729s
+2025-01-17 20:20:00 INFO INFO: Routine backup completed - 104GB in 2855s
+2025-01-17 20:40:00 INFO INFO: Routine backup completed - 124GB in 2177s
+2025-01-17 21:00:00 INFO INFO: User user1825 authenticated successfully from 192.168.236.207
+2025-01-17 21:20:00 INFO INFO: Routine backup completed - 79GB in 2589s
+2025-01-17 21:40:00 INFO INFO: Routine backup completed - 124GB in 1475s
+2025-01-17 22:00:00 INFO INFO: Security scan completed - 267074 files scanned
+2025-01-17 22:20:00 INFO INFO: Security scan completed - 218246 files scanned
+2025-01-17 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-17 23:00:00 INFO INFO: Routine backup completed - 138GB in 2558s
+2025-01-17 23:20:00 INFO INFO: Routine backup completed - 69GB in 2871s
+2025-01-17 23:40:00 INFO INFO: User user5014 authenticated successfully from 192.168.207.58
+2025-01-18 00:00:00 INFO INFO: Routine backup completed - 92GB in 2177s
+2025-01-18 00:20:00 INFO INFO: Routine backup completed - 64GB in 1837s
+2025-01-18 00:40:00 INFO INFO: Routine backup completed - 145GB in 2750s
+2025-01-18 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 01:20:00 INFO INFO: Security scan completed - 206226 files scanned
+2025-01-18 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-18 02:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 02:20:00 INFO INFO: Routine backup completed - 186GB in 1565s
+2025-01-18 02:40:00 INFO INFO: Security scan completed - 482195 files scanned
+2025-01-18 03:00:00 INFO INFO: User user9647 authenticated successfully from 192.168.15.206
+2025-01-18 03:20:00 INFO INFO: Routine backup completed - 164GB in 1391s
+2025-01-18 03:40:00 INFO INFO: Security scan completed - 338782 files scanned
+2025-01-18 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 04:20:00 INFO INFO: Security scan completed - 497368 files scanned
+2025-01-18 04:40:00 INFO INFO: Security scan completed - 162308 files scanned
+2025-01-18 05:00:00 INFO INFO: Security scan completed - 491156 files scanned
+2025-01-18 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 05:40:00 INFO INFO: Security scan completed - 141805 files scanned
+2025-01-18 06:00:00 INFO INFO: Routine backup completed - 192GB in 2436s
+2025-01-18 06:20:00 INFO INFO: Security scan completed - 465663 files scanned
+2025-01-18 06:40:00 INFO INFO: Routine backup completed - 184GB in 2596s
+2025-01-18 07:00:00 INFO INFO: Security scan completed - 204262 files scanned
+2025-01-18 07:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 07:40:00 INFO INFO: User user8221 authenticated successfully from 192.168.72.169
+2025-01-18 08:00:00 INFO INFO: Routine backup completed - 160GB in 1300s
+2025-01-18 08:20:00 INFO INFO: Routine backup completed - 166GB in 1903s
+2025-01-18 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-18 09:00:00 INFO INFO: User user7118 authenticated successfully from 192.168.182.177
+2025-01-18 09:20:00 INFO INFO: Security scan completed - 288199 files scanned
+2025-01-18 09:40:00 INFO INFO: User user7287 authenticated successfully from 192.168.252.89
+2025-01-18 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 10:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 10:40:00 INFO INFO: Routine backup completed - 60GB in 2367s
+2025-01-18 11:00:00 INFO INFO: User user2834 authenticated successfully from 192.168.197.209
+2025-01-18 11:20:00 INFO INFO: Security scan completed - 472825 files scanned
+2025-01-18 11:40:00 INFO INFO: Routine backup completed - 52GB in 1048s
+2025-01-18 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 12:20:00 INFO INFO: Security scan completed - 111184 files scanned
+2025-01-18 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-18 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 13:40:00 INFO INFO: Security scan completed - 493720 files scanned
+2025-01-18 14:00:00 INFO INFO: Security scan completed - 304954 files scanned
+2025-01-18 14:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 14:40:00 INFO INFO: Routine backup completed - 139GB in 2382s
+2025-01-18 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 15:40:00 INFO INFO: Security scan completed - 268650 files scanned
+2025-01-18 16:00:00 INFO INFO: Security scan completed - 114611 files scanned
+2025-01-18 16:20:00 INFO INFO: User user7125 authenticated successfully from 192.168.73.189
+2025-01-18 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-18 17:00:00 INFO INFO: Security scan completed - 353538 files scanned
+2025-01-18 17:20:00 INFO INFO: Routine backup completed - 145GB in 1681s
+2025-01-18 17:40:00 INFO INFO: User user2631 authenticated successfully from 192.168.37.40
+2025-01-18 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 18:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 18:40:00 INFO INFO: User user7745 authenticated successfully from 192.168.55.141
+2025-01-18 19:00:00 INFO INFO: Routine backup completed - 155GB in 1612s
+2025-01-18 19:20:00 INFO INFO: Routine backup completed - 157GB in 2248s
+2025-01-18 19:40:00 INFO INFO: Routine backup completed - 53GB in 1948s
+2025-01-18 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 20:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 20:40:00 INFO INFO: User user3254 authenticated successfully from 192.168.98.73
+2025-01-18 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 21:20:00 INFO INFO: User user8181 authenticated successfully from 192.168.50.189
+2025-01-18 21:40:00 INFO INFO: Security scan completed - 161106 files scanned
+2025-01-18 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-18 22:40:00 INFO INFO: Routine backup completed - 161GB in 1605s
+2025-01-18 23:00:00 INFO INFO: System health check passed - all services normal
+2025-01-18 23:20:00 INFO INFO: User user9760 authenticated successfully from 192.168.69.249
+2025-01-18 23:40:00 INFO INFO: Security scan completed - 448196 files scanned
+2025-01-19 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 00:20:00 INFO INFO: Routine backup completed - 63GB in 1193s
+2025-01-19 00:40:00 INFO INFO: User user2455 authenticated successfully from 192.168.140.81
+2025-01-19 01:00:00 INFO INFO: Routine backup completed - 166GB in 1424s
+2025-01-19 01:20:00 INFO INFO: User user4103 authenticated successfully from 192.168.20.70
+2025-01-19 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 02:00:00 INFO INFO: User user1200 authenticated successfully from 192.168.123.36
+2025-01-19 02:20:00 INFO INFO: User user4169 authenticated successfully from 192.168.153.155
+2025-01-19 02:40:00 INFO INFO: Routine backup completed - 93GB in 2811s
+2025-01-19 03:00:00 INFO INFO: User user4360 authenticated successfully from 192.168.96.249
+2025-01-19 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 05:00:00 INFO INFO: Routine backup completed - 73GB in 2252s
+2025-01-19 05:20:00 INFO INFO: Routine backup completed - 126GB in 1916s
+2025-01-19 05:40:00 INFO INFO: Security scan completed - 138911 files scanned
+2025-01-19 06:00:00 INFO INFO: Security scan completed - 330625 files scanned
+2025-01-19 06:20:00 INFO INFO: Security scan completed - 460690 files scanned
+2025-01-19 06:40:00 INFO INFO: Routine backup completed - 74GB in 2339s
+2025-01-19 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 07:20:00 INFO INFO: Routine backup completed - 176GB in 1514s
+2025-01-19 07:40:00 INFO INFO: User user5471 authenticated successfully from 192.168.132.133
+2025-01-19 08:00:00 INFO INFO: Security scan completed - 146111 files scanned
+2025-01-19 08:20:00 INFO INFO: Security scan completed - 323164 files scanned
+2025-01-19 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 09:00:00 INFO INFO: Routine backup completed - 141GB in 2595s
+2025-01-19 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 09:40:00 INFO INFO: Security scan completed - 270081 files scanned
+2025-01-19 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 10:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 10:40:00 INFO INFO: Routine backup completed - 105GB in 1913s
+2025-01-19 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 11:20:00 INFO INFO: Security scan completed - 139336 files scanned
+2025-01-19 11:40:00 INFO INFO: Routine backup completed - 142GB in 1018s
+2025-01-19 12:00:00 INFO INFO: Routine backup completed - 186GB in 1659s
+2025-01-19 12:20:00 INFO INFO: Security scan completed - 220315 files scanned
+2025-01-19 12:40:00 INFO INFO: User user5289 authenticated successfully from 192.168.15.203
+2025-01-19 13:00:00 INFO INFO: User user2589 authenticated successfully from 192.168.193.46
+2025-01-19 13:20:00 INFO INFO: Security scan completed - 183309 files scanned
+2025-01-19 13:40:00 INFO INFO: Security scan completed - 186517 files scanned
+2025-01-19 14:00:00 INFO INFO: User user9408 authenticated successfully from 192.168.13.203
+2025-01-19 14:20:00 INFO INFO: Security scan completed - 131437 files scanned
+2025-01-19 14:40:00 INFO INFO: User user5621 authenticated successfully from 192.168.146.138
+2025-01-19 15:00:00 INFO INFO: Routine backup completed - 115GB in 2559s
+2025-01-19 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 15:40:00 INFO INFO: Routine backup completed - 111GB in 2650s
+2025-01-19 16:00:00 INFO INFO: User user4313 authenticated successfully from 192.168.244.209
+2025-01-19 16:20:00 INFO INFO: Routine backup completed - 76GB in 2468s
+2025-01-19 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 17:00:00 INFO INFO: Security scan completed - 307835 files scanned
+2025-01-19 17:20:00 INFO INFO: Routine backup completed - 68GB in 2894s
+2025-01-19 17:40:00 INFO INFO: Routine backup completed - 113GB in 2810s
+2025-01-19 18:00:00 INFO INFO: Security scan completed - 340695 files scanned
+2025-01-19 18:20:00 INFO INFO: Routine backup completed - 133GB in 1097s
+2025-01-19 18:40:00 INFO INFO: System health check passed - all services normal
+2025-01-19 19:00:00 INFO INFO: User user1768 authenticated successfully from 192.168.212.15
+2025-01-19 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-19 19:40:00 INFO INFO: Routine backup completed - 123GB in 1394s
+2025-01-19 20:00:00 INFO INFO: User user4843 authenticated successfully from 192.168.30.189
+2025-01-19 20:20:00 INFO INFO: User user1038 authenticated successfully from 192.168.222.249
+2025-01-19 20:40:00 INFO INFO: User user6129 authenticated successfully from 192.168.80.73
+2025-01-19 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-19 21:20:00 INFO INFO: User user8794 authenticated successfully from 192.168.14.64
+2025-01-19 21:40:00 INFO INFO: User user7619 authenticated successfully from 192.168.39.5
+2025-01-19 22:00:00 INFO INFO: User user7025 authenticated successfully from 192.168.173.177
+2025-01-19 22:20:00 INFO INFO: User user5159 authenticated successfully from 192.168.197.11
+2025-01-19 22:40:00 INFO INFO: Routine backup completed - 99GB in 2135s
+2025-01-19 23:00:00 INFO INFO: User user9990 authenticated successfully from 192.168.156.188
+2025-01-19 23:20:00 INFO INFO: Security scan completed - 416810 files scanned
+2025-01-19 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-20 00:00:00 INFO INFO: User user5127 authenticated successfully from 192.168.35.253
+2025-01-20 00:20:00 INFO INFO: User user7834 authenticated successfully from 192.168.252.124
+2025-01-20 00:40:00 INFO INFO: Security scan completed - 354451 files scanned
+2025-01-20 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 01:20:00 INFO INFO: User user8404 authenticated successfully from 192.168.29.49
+2025-01-20 01:40:00 INFO INFO: Security scan completed - 230759 files scanned
+2025-01-20 02:00:00 INFO INFO: Security scan completed - 455327 files scanned
+2025-01-20 02:20:00 INFO INFO: User user3186 authenticated successfully from 192.168.70.141
+2025-01-20 02:40:00 INFO INFO: User user9049 authenticated successfully from 192.168.135.37
+2025-01-20 03:00:00 INFO INFO: User user5026 authenticated successfully from 192.168.93.44
+2025-01-20 03:20:00 INFO INFO: Routine backup completed - 155GB in 2325s
+2025-01-20 03:40:00 INFO INFO: User user6929 authenticated successfully from 192.168.179.118
+2025-01-20 04:00:00 INFO INFO: Routine backup completed - 64GB in 2138s
+2025-01-20 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-20 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 05:20:00 INFO INFO: User user5429 authenticated successfully from 192.168.240.35
+2025-01-20 05:40:00 INFO INFO: Routine backup completed - 134GB in 2992s
+2025-01-20 06:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 06:20:00 INFO INFO: User user1999 authenticated successfully from 192.168.245.205
+2025-01-20 06:40:00 INFO INFO: Security scan completed - 443951 files scanned
+2025-01-20 07:00:00 INFO INFO: User user5830 authenticated successfully from 192.168.184.202
+2025-01-20 07:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-20 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 08:20:00 INFO INFO: Routine backup completed - 128GB in 2239s
+2025-01-20 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-20 09:00:00 INFO INFO: User user1445 authenticated successfully from 192.168.243.204
+2025-01-20 09:20:00 INFO INFO: User user4214 authenticated successfully from 192.168.77.47
+2025-01-20 09:40:00 INFO INFO: User user2493 authenticated successfully from 192.168.60.240
+2025-01-20 10:00:00 INFO INFO: User user5604 authenticated successfully from 192.168.176.239
+2025-01-20 10:20:00 INFO INFO: Routine backup completed - 143GB in 2702s
+2025-01-20 10:40:00 INFO INFO: Routine backup completed - 184GB in 2892s
+2025-01-20 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 11:40:00 INFO INFO: Security scan completed - 394658 files scanned
+2025-01-20 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 12:20:00 INFO INFO: Routine backup completed - 192GB in 2790s
+2025-01-20 12:40:00 INFO INFO: User user8085 authenticated successfully from 192.168.105.167
+2025-01-20 13:00:00 INFO INFO: Routine backup completed - 178GB in 2384s
+2025-01-20 13:20:00 INFO INFO: User user4160 authenticated successfully from 192.168.32.121
+2025-01-20 13:40:00 INFO INFO: Security scan completed - 200993 files scanned
+2025-01-20 14:00:00 INFO INFO: Security scan completed - 437388 files scanned
+2025-01-20 14:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 14:40:00 INFO INFO: Security scan completed - 389124 files scanned
+2025-01-20 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 15:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 15:40:00 INFO INFO: Routine backup completed - 69GB in 1704s
+2025-01-20 16:00:00 INFO INFO: Routine backup completed - 166GB in 1901s
+2025-01-20 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 16:40:00 INFO INFO: Routine backup completed - 191GB in 1881s
+2025-01-20 17:00:00 INFO INFO: Routine backup completed - 67GB in 2725s
+2025-01-20 17:20:00 INFO INFO: Routine backup completed - 89GB in 2161s
+2025-01-20 17:40:00 INFO INFO: System health check passed - all services normal
+2025-01-20 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 18:20:00 INFO INFO: Security scan completed - 231152 files scanned
+2025-01-20 18:40:00 INFO INFO: User user8084 authenticated successfully from 192.168.37.97
+2025-01-20 19:00:00 INFO INFO: Routine backup completed - 142GB in 1110s
+2025-01-20 19:20:00 INFO INFO: User user1614 authenticated successfully from 192.168.124.97
+2025-01-20 19:40:00 INFO INFO: Security scan completed - 202475 files scanned
+2025-01-20 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-20 20:20:00 INFO INFO: Security scan completed - 209598 files scanned
+2025-01-20 20:40:00 INFO INFO: Security scan completed - 344645 files scanned
+2025-01-20 21:00:00 INFO INFO: Routine backup completed - 141GB in 1714s
+2025-01-20 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-20 21:40:00 INFO INFO: Security scan completed - 181853 files scanned
+2025-01-20 22:00:00 INFO INFO: User user3739 authenticated successfully from 192.168.215.232
+2025-01-20 22:20:00 INFO INFO: User user3745 authenticated successfully from 192.168.218.93
+2025-01-20 22:40:00 INFO INFO: Security scan completed - 125938 files scanned
+2025-01-20 23:00:00 INFO INFO: Security scan completed - 252274 files scanned
+2025-01-20 23:20:00 INFO INFO: Routine backup completed - 57GB in 1841s
+2025-01-20 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 00:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 00:20:00 INFO INFO: Routine backup completed - 160GB in 2552s
+2025-01-21 00:40:00 INFO INFO: User user6299 authenticated successfully from 192.168.88.203
+2025-01-21 01:00:00 INFO INFO: Routine backup completed - 52GB in 2850s
+2025-01-21 01:20:00 INFO INFO: Routine backup completed - 197GB in 2778s
+2025-01-21 01:40:00 INFO INFO: Routine backup completed - 77GB in 1844s
+2025-01-21 02:00:00 INFO INFO: Security scan completed - 372125 files scanned
+2025-01-21 02:20:00 INFO INFO: Routine backup completed - 79GB in 2357s
+2025-01-21 02:40:00 INFO INFO: User user9807 authenticated successfully from 192.168.135.154
+2025-01-21 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-21 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 04:20:00 INFO INFO: Security scan completed - 227825 files scanned
+2025-01-21 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-21 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 06:00:00 INFO INFO: Security scan completed - 490420 files scanned
+2025-01-21 06:20:00 INFO INFO: Security scan completed - 453959 files scanned
+2025-01-21 06:40:00 INFO INFO: Routine backup completed - 99GB in 2423s
+2025-01-21 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 07:20:00 INFO INFO: User user3443 authenticated successfully from 192.168.155.152
+2025-01-21 07:40:00 INFO INFO: Security scan completed - 304669 files scanned
+2025-01-21 08:00:00 INFO INFO: User user6878 authenticated successfully from 192.168.4.228
+2025-01-21 08:20:00 INFO INFO: Routine backup completed - 106GB in 1407s
+2025-01-21 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 09:00:00 INFO INFO: Routine backup completed - 154GB in 1620s
+2025-01-21 09:20:00 INFO INFO: Routine backup completed - 50GB in 2171s
+2025-01-21 09:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 10:20:00 INFO INFO: Routine backup completed - 98GB in 1099s
+2025-01-21 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 11:00:00 INFO INFO: Routine backup completed - 124GB in 1679s
+2025-01-21 11:20:00 INFO INFO: User user6217 authenticated successfully from 192.168.137.230
+2025-01-21 11:40:00 INFO INFO: Routine backup completed - 199GB in 2214s
+2025-01-21 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 12:20:00 INFO INFO: Routine backup completed - 131GB in 2175s
+2025-01-21 12:40:00 INFO INFO: User user7431 authenticated successfully from 192.168.144.61
+2025-01-21 13:00:00 INFO INFO: Routine backup completed - 167GB in 2021s
+2025-01-21 13:20:00 INFO INFO: Security scan completed - 300698 files scanned
+2025-01-21 13:40:00 INFO INFO: Routine backup completed - 189GB in 1850s
+2025-01-21 14:00:00 INFO INFO: User user1107 authenticated successfully from 192.168.166.115
+2025-01-21 14:20:00 INFO INFO: Security scan completed - 398334 files scanned
+2025-01-21 14:40:00 INFO INFO: User user1766 authenticated successfully from 192.168.174.169
+2025-01-21 15:00:00 INFO INFO: Routine backup completed - 96GB in 1454s
+2025-01-21 15:20:00 INFO INFO: Routine backup completed - 138GB in 2928s
+2025-01-21 15:40:00 INFO INFO: User user6501 authenticated successfully from 192.168.11.79
+2025-01-21 16:00:00 INFO INFO: User user4666 authenticated successfully from 192.168.187.240
+2025-01-21 16:20:00 INFO INFO: Routine backup completed - 57GB in 1924s
+2025-01-21 16:40:00 INFO INFO: Routine backup completed - 69GB in 2818s
+2025-01-21 17:00:00 INFO INFO: Routine backup completed - 141GB in 2272s
+2025-01-21 17:20:00 INFO INFO: Security scan completed - 480095 files scanned
+2025-01-21 17:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 18:20:00 INFO INFO: Routine backup completed - 78GB in 1712s
+2025-01-21 18:40:00 INFO INFO: Routine backup completed - 109GB in 2866s
+2025-01-21 19:00:00 INFO INFO: User user3942 authenticated successfully from 192.168.81.206
+2025-01-21 19:20:00 INFO INFO: Security scan completed - 157120 files scanned
+2025-01-21 19:40:00 INFO INFO: User user4320 authenticated successfully from 192.168.207.110
+2025-01-21 20:00:00 INFO INFO: Security scan completed - 273783 files scanned
+2025-01-21 20:20:00 INFO INFO: User user9461 authenticated successfully from 192.168.8.38
+2025-01-21 20:40:00 INFO INFO: User user4744 authenticated successfully from 192.168.15.155
+2025-01-21 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-21 21:20:00 INFO INFO: Security scan completed - 281704 files scanned
+2025-01-21 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 22:00:00 INFO INFO: Security scan completed - 358155 files scanned
+2025-01-21 22:20:00 INFO INFO: Routine backup completed - 94GB in 2178s
+2025-01-21 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-21 23:00:00 INFO INFO: User user1007 authenticated successfully from 192.168.25.248
+2025-01-21 23:20:00 INFO INFO: User user1507 authenticated successfully from 192.168.189.168
+2025-01-21 23:40:00 INFO INFO: User user4940 authenticated successfully from 192.168.26.35
+2025-01-22 00:00:00 INFO INFO: Security scan completed - 137407 files scanned
+2025-01-22 00:20:00 INFO INFO: Routine backup completed - 188GB in 1734s
+2025-01-22 00:40:00 INFO INFO: User user3688 authenticated successfully from 192.168.134.79
+2025-01-22 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-22 01:20:00 INFO INFO: Security scan completed - 473108 files scanned
+2025-01-22 01:40:00 INFO INFO: Security scan completed - 383770 files scanned
+2025-01-22 02:00:00 INFO INFO: Security scan completed - 246054 files scanned
+2025-01-22 02:20:00 INFO INFO: User user4495 authenticated successfully from 192.168.200.30
+2025-01-22 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-22 03:00:00 INFO INFO: Security scan completed - 175637 files scanned
+2025-01-22 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-22 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-22 04:00:00 INFO INFO: Security scan completed - 337978 files scanned
+2025-01-22 04:20:00 INFO INFO: Routine backup completed - 143GB in 1866s
+2025-01-22 04:40:00 INFO INFO: Security scan completed - 158307 files scanned
+2025-01-22 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-22 05:20:00 INFO INFO: Routine backup completed - 56GB in 1213s
+2025-01-22 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-22 06:00:00 INFO INFO: Routine backup completed - 103GB in 2395s
+2025-01-22 06:20:00 INFO INFO: System health check passed - all services normal
+2025-01-22 06:40:00 INFO INFO: Security scan completed - 150377 files scanned
+2025-01-22 07:00:00 INFO INFO: Security scan completed - 318894 files scanned
+2025-01-22 07:20:00 INFO INFO: User user8432 authenticated successfully from 192.168.245.112
+2025-01-22 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-22 08:00:00 ERROR ALERT: File system critical - only 1GB remaining on /data
+2025-01-22 08:20:00 ERROR EMERGENCY: Storage system overloaded - I/O latency at 615ms
+2025-01-22 08:40:00 ERROR ALERT: File system critical - only 2GB remaining on /data
+2025-01-22 09:00:00 ERROR ALERT: File system critical - only 2GB remaining on /data
+2025-01-22 09:20:00 ERROR CRITICAL: Disk space at 97% - data loss risk high
+2025-01-22 09:40:00 ERROR ALERT: File system critical - only 3GB remaining on /data
+2025-01-22 10:00:00 ERROR CRITICAL: Disk space at 93% - data loss risk high
+2025-01-22 10:20:00 INFO INFO: System health check passed - all services normal
+2025-01-22 10:40:00 INFO INFO: User user1470 authenticated successfully from 192.168.15.42
+2025-01-22 11:00:00 INFO INFO: Routine backup completed - 51GB in 2649s
+2025-01-22 11:20:00 INFO INFO: Security scan completed - 474136 files scanned
+2025-01-22 11:40:00 INFO INFO: User user1636 authenticated successfully from 192.168.147.140
+2025-01-22 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-22 12:20:00 INFO INFO: Routine backup completed - 106GB in 2952s
+2025-01-22 12:40:00 INFO INFO: User user7286 authenticated successfully from 192.168.235.176
+2025-01-22 13:00:00 INFO INFO: User user1112 authenticated successfully from 192.168.88.216
+2025-01-22 13:20:00 INFO INFO: User user9606 authenticated successfully from 192.168.3.219
+2025-01-22 13:40:00 INFO INFO: Security scan completed - 453926 files scanned
+2025-01-22 14:00:00 INFO INFO: Routine backup completed - 177GB in 1517s
+2025-01-22 14:20:00 INFO INFO: Security scan completed - 470669 files scanned
+2025-01-22 14:40:00 INFO INFO: Security scan completed - 106172 files scanned
+2025-01-22 15:00:00 INFO INFO: User user6769 authenticated successfully from 192.168.146.92
+2025-01-22 15:20:00 INFO INFO: Security scan completed - 287183 files scanned
+2025-01-22 15:40:00 INFO INFO: User user5201 authenticated successfully from 192.168.77.50
+2025-01-22 16:00:00 INFO INFO: Routine backup completed - 178GB in 2697s
+2025-01-22 16:20:00 INFO INFO: Security scan completed - 282892 files scanned
+2025-01-22 16:40:00 INFO INFO: User user7602 authenticated successfully from 192.168.28.180
+2025-01-22 17:00:00 INFO INFO: Security scan completed - 220724 files scanned
+2025-01-22 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-22 17:40:00 INFO INFO: Routine backup completed - 142GB in 2367s
+2025-01-22 18:00:00 INFO INFO: Security scan completed - 464835 files scanned
+2025-01-22 18:20:00 INFO INFO: System health check passed - all services normal
+2025-01-22 18:40:00 INFO INFO: Routine backup completed - 93GB in 1920s
+2025-01-22 19:00:00 INFO INFO: Routine backup completed - 123GB in 2583s
+2025-01-22 19:20:00 INFO INFO: User user5100 authenticated successfully from 192.168.189.210
+2025-01-22 19:40:00 INFO INFO: Routine backup completed - 142GB in 2309s
+2025-01-22 20:00:00 INFO INFO: Security scan completed - 323449 files scanned
+2025-01-22 20:20:00 INFO INFO: User user3580 authenticated successfully from 192.168.150.2
+2025-01-22 20:40:00 INFO INFO: Routine backup completed - 166GB in 2249s
+2025-01-22 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-22 21:20:00 INFO INFO: Security scan completed - 370460 files scanned
+2025-01-22 21:40:00 INFO INFO: Security scan completed - 428671 files scanned
+2025-01-22 22:00:00 INFO INFO: Security scan completed - 270688 files scanned
+2025-01-22 22:20:00 INFO INFO: User user1625 authenticated successfully from 192.168.43.96
+2025-01-22 22:40:00 INFO INFO: Routine backup completed - 79GB in 1829s
+2025-01-22 23:00:00 INFO INFO: Security scan completed - 310135 files scanned
+2025-01-22 23:20:00 INFO INFO: Security scan completed - 120474 files scanned
+2025-01-22 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 00:00:00 INFO INFO: Routine backup completed - 132GB in 2163s
+2025-01-23 00:20:00 INFO INFO: Security scan completed - 362524 files scanned
+2025-01-23 00:40:00 INFO INFO: Routine backup completed - 117GB in 2229s
+2025-01-23 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 01:20:00 INFO INFO: Security scan completed - 183749 files scanned
+2025-01-23 01:40:00 INFO INFO: Security scan completed - 211448 files scanned
+2025-01-23 02:00:00 INFO INFO: User user8216 authenticated successfully from 192.168.222.54
+2025-01-23 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 02:40:00 INFO INFO: Security scan completed - 194302 files scanned
+2025-01-23 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 03:20:00 INFO INFO: User user9553 authenticated successfully from 192.168.142.209
+2025-01-23 03:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 04:00:00 INFO INFO: Security scan completed - 247494 files scanned
+2025-01-23 04:20:00 INFO INFO: Security scan completed - 125326 files scanned
+2025-01-23 04:40:00 INFO INFO: User user7194 authenticated successfully from 192.168.58.172
+2025-01-23 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 05:20:00 INFO INFO: Security scan completed - 246749 files scanned
+2025-01-23 05:40:00 INFO INFO: Security scan completed - 390982 files scanned
+2025-01-23 06:00:00 INFO INFO: Security scan completed - 107050 files scanned
+2025-01-23 06:20:00 INFO INFO: User user6337 authenticated successfully from 192.168.158.124
+2025-01-23 06:40:00 INFO INFO: Routine backup completed - 189GB in 2570s
+2025-01-23 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 07:20:00 INFO INFO: Security scan completed - 385353 files scanned
+2025-01-23 07:40:00 INFO INFO: Routine backup completed - 63GB in 2336s
+2025-01-23 08:00:00 INFO INFO: Security scan completed - 462523 files scanned
+2025-01-23 08:20:00 INFO INFO: User user7161 authenticated successfully from 192.168.94.28
+2025-01-23 08:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 09:00:00 INFO INFO: Security scan completed - 242299 files scanned
+2025-01-23 09:20:00 INFO INFO: Security scan completed - 323791 files scanned
+2025-01-23 09:40:00 INFO INFO: Security scan completed - 302251 files scanned
+2025-01-23 10:00:00 INFO INFO: Security scan completed - 492385 files scanned
+2025-01-23 10:20:00 INFO INFO: Routine backup completed - 61GB in 1286s
+2025-01-23 10:40:00 INFO INFO: User user5079 authenticated successfully from 192.168.39.229
+2025-01-23 11:00:00 INFO INFO: Security scan completed - 213087 files scanned
+2025-01-23 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 11:40:00 INFO INFO: Security scan completed - 202965 files scanned
+2025-01-23 12:00:00 INFO INFO: User user1286 authenticated successfully from 192.168.152.75
+2025-01-23 12:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 12:40:00 INFO INFO: User user2528 authenticated successfully from 192.168.184.120
+2025-01-23 13:00:00 INFO INFO: Security scan completed - 440602 files scanned
+2025-01-23 13:20:00 INFO INFO: Security scan completed - 396727 files scanned
+2025-01-23 13:40:00 INFO INFO: User user2423 authenticated successfully from 192.168.89.250
+2025-01-23 14:00:00 INFO INFO: Routine backup completed - 79GB in 2798s
+2025-01-23 14:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 15:00:00 INFO INFO: User user4342 authenticated successfully from 192.168.162.122
+2025-01-23 15:20:00 INFO INFO: Security scan completed - 381357 files scanned
+2025-01-23 15:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 16:00:00 INFO INFO: User user2106 authenticated successfully from 192.168.63.39
+2025-01-23 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 17:00:00 INFO INFO: Routine backup completed - 114GB in 1898s
+2025-01-23 17:20:00 INFO INFO: Routine backup completed - 195GB in 1801s
+2025-01-23 17:40:00 INFO INFO: User user2231 authenticated successfully from 192.168.13.61
+2025-01-23 18:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 18:20:00 INFO INFO: Security scan completed - 436752 files scanned
+2025-01-23 18:40:00 INFO INFO: Routine backup completed - 80GB in 2153s
+2025-01-23 19:00:00 INFO INFO: Routine backup completed - 198GB in 2614s
+2025-01-23 19:20:00 INFO INFO: Security scan completed - 119941 files scanned
+2025-01-23 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-23 20:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 20:40:00 INFO INFO: Routine backup completed - 160GB in 1999s
+2025-01-23 21:00:00 INFO INFO: Security scan completed - 109809 files scanned
+2025-01-23 21:20:00 INFO INFO: User user8487 authenticated successfully from 192.168.5.114
+2025-01-23 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 22:00:00 INFO INFO: Security scan completed - 249920 files scanned
+2025-01-23 22:20:00 INFO INFO: User user9060 authenticated successfully from 192.168.71.152
+2025-01-23 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-23 23:00:00 INFO INFO: Security scan completed - 173486 files scanned
+2025-01-23 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-23 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-24 00:00:00 INFO INFO: User user6351 authenticated successfully from 192.168.55.123
+2025-01-24 00:20:00 INFO INFO: User user5415 authenticated successfully from 192.168.29.59
+2025-01-24 00:40:00 INFO INFO: User user9720 authenticated successfully from 192.168.218.33
+2025-01-24 01:00:00 INFO INFO: User user4791 authenticated successfully from 192.168.166.239
+2025-01-24 01:20:00 INFO INFO: User user7114 authenticated successfully from 192.168.248.63
+2025-01-24 01:40:00 INFO INFO: System health check passed - all services normal
+2025-01-24 02:00:00 INFO INFO: Routine backup completed - 128GB in 2466s
+2025-01-24 02:20:00 INFO INFO: User user6753 authenticated successfully from 192.168.41.166
+2025-01-24 02:40:00 INFO INFO: Security scan completed - 154295 files scanned
+2025-01-24 03:00:00 INFO INFO: Security scan completed - 362371 files scanned
+2025-01-24 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 03:40:00 INFO INFO: Routine backup completed - 168GB in 2298s
+2025-01-24 04:00:00 INFO INFO: User user6070 authenticated successfully from 192.168.81.226
+2025-01-24 04:20:00 INFO INFO: Security scan completed - 279329 files scanned
+2025-01-24 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-24 05:00:00 INFO INFO: Routine backup completed - 117GB in 2166s
+2025-01-24 05:20:00 INFO INFO: User user6927 authenticated successfully from 192.168.201.109
+2025-01-24 05:40:00 INFO INFO: Security scan completed - 397798 files scanned
+2025-01-24 06:00:00 INFO INFO: User user6993 authenticated successfully from 192.168.34.98
+2025-01-24 06:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 06:40:00 INFO INFO: User user6553 authenticated successfully from 192.168.27.224
+2025-01-24 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 07:20:00 INFO INFO: Security scan completed - 163886 files scanned
+2025-01-24 07:40:00 INFO INFO: User user6960 authenticated successfully from 192.168.228.3
+2025-01-24 08:00:00 INFO INFO: Security scan completed - 215867 files scanned
+2025-01-24 08:20:00 INFO INFO: User user2534 authenticated successfully from 192.168.211.30
+2025-01-24 08:40:00 INFO INFO: Security scan completed - 355656 files scanned
+2025-01-24 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 09:20:00 INFO INFO: Routine backup completed - 198GB in 1343s
+2025-01-24 09:40:00 INFO INFO: User user9230 authenticated successfully from 192.168.233.123
+2025-01-24 10:00:00 INFO INFO: Security scan completed - 271594 files scanned
+2025-01-24 10:20:00 INFO INFO: User user4253 authenticated successfully from 192.168.35.125
+2025-01-24 10:40:00 INFO INFO: User user3947 authenticated successfully from 192.168.105.217
+2025-01-24 11:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 11:40:00 INFO INFO: Routine backup completed - 136GB in 2905s
+2025-01-24 12:00:00 INFO INFO: Security scan completed - 117949 files scanned
+2025-01-24 12:20:00 INFO INFO: Routine backup completed - 115GB in 2159s
+2025-01-24 12:40:00 INFO INFO: Routine backup completed - 51GB in 1941s
+2025-01-24 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 13:40:00 INFO INFO: Security scan completed - 222398 files scanned
+2025-01-24 14:00:00 INFO INFO: User user7466 authenticated successfully from 192.168.87.143
+2025-01-24 14:20:00 INFO INFO: User user1673 authenticated successfully from 192.168.213.100
+2025-01-24 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-24 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 15:20:00 INFO INFO: Routine backup completed - 119GB in 1728s
+2025-01-24 15:40:00 INFO INFO: User user5060 authenticated successfully from 192.168.10.122
+2025-01-24 16:00:00 INFO INFO: User user3065 authenticated successfully from 192.168.162.112
+2025-01-24 16:20:00 INFO INFO: Routine backup completed - 99GB in 1353s
+2025-01-24 16:40:00 INFO INFO: Security scan completed - 285773 files scanned
+2025-01-24 17:00:00 INFO INFO: Routine backup completed - 115GB in 2762s
+2025-01-24 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 17:40:00 INFO INFO: User user2254 authenticated successfully from 192.168.207.89
+2025-01-24 18:00:00 INFO INFO: Routine backup completed - 119GB in 1046s
+2025-01-24 18:20:00 INFO INFO: Routine backup completed - 168GB in 1938s
+2025-01-24 18:40:00 INFO INFO: User user8719 authenticated successfully from 192.168.118.63
+2025-01-24 19:00:00 INFO INFO: User user2643 authenticated successfully from 192.168.110.143
+2025-01-24 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 19:40:00 INFO INFO: Routine backup completed - 88GB in 2500s
+2025-01-24 20:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 20:20:00 INFO INFO: User user9114 authenticated successfully from 192.168.169.225
+2025-01-24 20:40:00 INFO INFO: Routine backup completed - 162GB in 1224s
+2025-01-24 21:00:00 INFO INFO: Routine backup completed - 76GB in 2724s
+2025-01-24 21:20:00 INFO INFO: Routine backup completed - 75GB in 1212s
+2025-01-24 21:40:00 INFO INFO: Routine backup completed - 62GB in 2118s
+2025-01-24 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-24 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-24 22:40:00 INFO INFO: User user3481 authenticated successfully from 192.168.42.238
+2025-01-24 23:00:00 INFO INFO: User user3850 authenticated successfully from 192.168.34.1
+2025-01-24 23:20:00 INFO INFO: Security scan completed - 334416 files scanned
+2025-01-24 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-25 00:00:00 INFO INFO: User user7507 authenticated successfully from 192.168.87.151
+2025-01-25 00:20:00 INFO INFO: Security scan completed - 235062 files scanned
+2025-01-25 00:40:00 INFO INFO: Routine backup completed - 83GB in 2670s
+2025-01-25 01:00:00 INFO INFO: Security scan completed - 162219 files scanned
+2025-01-25 01:20:00 INFO INFO: User user2053 authenticated successfully from 192.168.131.200
+2025-01-25 01:40:00 INFO INFO: Routine backup completed - 140GB in 2257s
+2025-01-25 02:00:00 INFO INFO: Security scan completed - 172141 files scanned
+2025-01-25 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 02:40:00 INFO INFO: Security scan completed - 167827 files scanned
+2025-01-25 03:00:00 INFO INFO: User user3760 authenticated successfully from 192.168.231.126
+2025-01-25 03:20:00 INFO INFO: User user9863 authenticated successfully from 192.168.98.194
+2025-01-25 03:40:00 INFO INFO: Routine backup completed - 173GB in 2183s
+2025-01-25 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-25 04:20:00 INFO INFO: Security scan completed - 471261 files scanned
+2025-01-25 04:40:00 INFO INFO: User user7611 authenticated successfully from 192.168.18.7
+2025-01-25 05:00:00 INFO INFO: User user9886 authenticated successfully from 192.168.125.219
+2025-01-25 05:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-25 06:00:00 INFO INFO: Security scan completed - 296792 files scanned
+2025-01-25 06:20:00 INFO INFO: User user5084 authenticated successfully from 192.168.18.57
+2025-01-25 06:40:00 INFO INFO: Security scan completed - 253966 files scanned
+2025-01-25 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-25 07:20:00 INFO INFO: Routine backup completed - 100GB in 2398s
+2025-01-25 07:40:00 INFO INFO: Security scan completed - 347005 files scanned
+2025-01-25 08:00:00 INFO INFO: User user1517 authenticated successfully from 192.168.87.212
+2025-01-25 08:20:00 INFO INFO: Routine backup completed - 93GB in 2580s
+2025-01-25 08:40:00 INFO INFO: User user2557 authenticated successfully from 192.168.214.119
+2025-01-25 09:00:00 INFO INFO: Routine backup completed - 111GB in 1035s
+2025-01-25 09:20:00 INFO INFO: User user2965 authenticated successfully from 192.168.56.227
+2025-01-25 09:40:00 INFO INFO: Security scan completed - 484807 files scanned
+2025-01-25 10:00:00 INFO INFO: Routine backup completed - 85GB in 1788s
+2025-01-25 10:20:00 INFO INFO: User user8017 authenticated successfully from 192.168.139.33
+2025-01-25 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-25 11:00:00 INFO INFO: Routine backup completed - 177GB in 1503s
+2025-01-25 11:20:00 INFO INFO: Security scan completed - 270315 files scanned
+2025-01-25 11:40:00 INFO INFO: Security scan completed - 383659 files scanned
+2025-01-25 12:00:00 INFO INFO: User user7584 authenticated successfully from 192.168.204.130
+2025-01-25 12:20:00 INFO INFO: Security scan completed - 245611 files scanned
+2025-01-25 12:40:00 INFO INFO: Routine backup completed - 129GB in 2540s
+2025-01-25 13:00:00 INFO INFO: Security scan completed - 258404 files scanned
+2025-01-25 13:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 13:40:00 INFO INFO: User user6880 authenticated successfully from 192.168.4.43
+2025-01-25 14:00:00 INFO INFO: System health check passed - all services normal
+2025-01-25 14:20:00 INFO INFO: Security scan completed - 293379 files scanned
+2025-01-25 14:40:00 INFO INFO: Routine backup completed - 125GB in 2357s
+2025-01-25 15:00:00 INFO INFO: Routine backup completed - 107GB in 1095s
+2025-01-25 15:20:00 INFO INFO: Routine backup completed - 118GB in 1062s
+2025-01-25 15:40:00 INFO INFO: Routine backup completed - 156GB in 2443s
+2025-01-25 16:00:00 INFO INFO: Routine backup completed - 178GB in 1471s
+2025-01-25 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 16:40:00 INFO INFO: User user8631 authenticated successfully from 192.168.213.110
+2025-01-25 17:00:00 INFO INFO: Routine backup completed - 104GB in 2678s
+2025-01-25 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 17:40:00 INFO INFO: Routine backup completed - 110GB in 1636s
+2025-01-25 18:00:00 INFO INFO: Security scan completed - 266542 files scanned
+2025-01-25 18:20:00 INFO INFO: Routine backup completed - 137GB in 2952s
+2025-01-25 18:40:00 INFO INFO: System health check passed - all services normal
+2025-01-25 19:00:00 INFO INFO: System health check passed - all services normal
+2025-01-25 19:20:00 INFO INFO: User user1349 authenticated successfully from 192.168.151.229
+2025-01-25 19:40:00 INFO INFO: User user1336 authenticated successfully from 192.168.133.134
+2025-01-25 20:00:00 INFO INFO: Routine backup completed - 144GB in 2200s
+2025-01-25 20:20:00 INFO INFO: Routine backup completed - 172GB in 2150s
+2025-01-25 20:40:00 INFO INFO: User user5319 authenticated successfully from 192.168.134.24
+2025-01-25 21:00:00 INFO INFO: System health check passed - all services normal
+2025-01-25 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 21:40:00 INFO INFO: Routine backup completed - 117GB in 2503s
+2025-01-25 22:00:00 INFO INFO: Routine backup completed - 89GB in 2059s
+2025-01-25 22:20:00 INFO INFO: Security scan completed - 331900 files scanned
+2025-01-25 22:40:00 INFO INFO: Security scan completed - 398317 files scanned
+2025-01-25 23:00:00 INFO INFO: Security scan completed - 205342 files scanned
+2025-01-25 23:20:00 INFO INFO: System health check passed - all services normal
+2025-01-25 23:40:00 INFO INFO: Routine backup completed - 174GB in 1952s
+2025-01-26 00:00:00 INFO INFO: Routine backup completed - 112GB in 1783s
+2025-01-26 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 00:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 01:00:00 INFO INFO: Routine backup completed - 117GB in 2434s
+2025-01-26 01:20:00 INFO INFO: User user7255 authenticated successfully from 192.168.100.45
+2025-01-26 01:40:00 INFO INFO: User user6582 authenticated successfully from 192.168.196.70
+2025-01-26 02:00:00 INFO INFO: User user7284 authenticated successfully from 192.168.67.33
+2025-01-26 02:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 02:40:00 INFO INFO: User user8536 authenticated successfully from 192.168.160.241
+2025-01-26 03:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 03:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 03:40:00 INFO INFO: Routine backup completed - 152GB in 1283s
+2025-01-26 04:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 04:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 04:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 05:20:00 INFO INFO: Routine backup completed - 157GB in 1666s
+2025-01-26 05:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 06:00:00 INFO INFO: Routine backup completed - 148GB in 2732s
+2025-01-26 06:20:00 INFO INFO: Routine backup completed - 175GB in 2785s
+2025-01-26 06:40:00 INFO INFO: User user9561 authenticated successfully from 192.168.250.112
+2025-01-26 07:00:00 INFO INFO: Routine backup completed - 65GB in 1860s
+2025-01-26 07:20:00 INFO INFO: Security scan completed - 421996 files scanned
+2025-01-26 07:40:00 INFO INFO: Routine backup completed - 88GB in 2946s
+2025-01-26 08:00:00 INFO INFO: User user6366 authenticated successfully from 192.168.177.244
+2025-01-26 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 08:40:00 INFO INFO: Routine backup completed - 122GB in 2423s
+2025-01-26 09:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 09:20:00 INFO INFO: Routine backup completed - 103GB in 2422s
+2025-01-26 09:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 10:00:00 INFO INFO: User user2032 authenticated successfully from 192.168.130.161
+2025-01-26 10:20:00 INFO INFO: Security scan completed - 106819 files scanned
+2025-01-26 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 11:00:00 INFO INFO: Security scan completed - 312739 files scanned
+2025-01-26 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 11:40:00 INFO INFO: Routine backup completed - 162GB in 1917s
+2025-01-26 12:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 12:20:00 INFO INFO: Routine backup completed - 88GB in 1352s
+2025-01-26 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 13:00:00 INFO INFO: Security scan completed - 499393 files scanned
+2025-01-26 13:20:00 INFO INFO: Routine backup completed - 89GB in 1929s
+2025-01-26 13:40:00 INFO INFO: Routine backup completed - 137GB in 1714s
+2025-01-26 14:00:00 INFO INFO: Routine backup completed - 145GB in 1115s
+2025-01-26 14:20:00 INFO INFO: Security scan completed - 169017 files scanned
+2025-01-26 14:40:00 INFO INFO: Security scan completed - 281020 files scanned
+2025-01-26 15:00:00 INFO INFO: User user4024 authenticated successfully from 192.168.198.179
+2025-01-26 15:20:00 INFO INFO: Security scan completed - 226174 files scanned
+2025-01-26 15:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 16:00:00 INFO INFO: User user9924 authenticated successfully from 192.168.71.245
+2025-01-26 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 16:40:00 INFO INFO: Routine backup completed - 156GB in 1721s
+2025-01-26 17:00:00 INFO INFO: Security scan completed - 185380 files scanned
+2025-01-26 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 17:40:00 INFO INFO: User user6142 authenticated successfully from 192.168.8.229
+2025-01-26 18:00:00 INFO INFO: Security scan completed - 136114 files scanned
+2025-01-26 18:20:00 INFO INFO: User user4276 authenticated successfully from 192.168.27.106
+2025-01-26 18:40:00 INFO INFO: Routine backup completed - 98GB in 1936s
+2025-01-26 19:00:00 INFO INFO: Security scan completed - 244961 files scanned
+2025-01-26 19:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 19:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 20:00:00 INFO INFO: Security scan completed - 397666 files scanned
+2025-01-26 20:20:00 INFO INFO: User user7515 authenticated successfully from 192.168.57.183
+2025-01-26 20:40:00 INFO INFO: User user3955 authenticated successfully from 192.168.39.154
+2025-01-26 21:00:00 INFO INFO: Routine backup completed - 187GB in 2074s
+2025-01-26 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 21:40:00 INFO INFO: System health check passed - all services normal
+2025-01-26 22:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-26 22:40:00 INFO INFO: Security scan completed - 218249 files scanned
+2025-01-26 23:00:00 INFO INFO: System health check passed - all services normal
+2025-01-26 23:20:00 INFO INFO: Routine backup completed - 75GB in 1626s
+2025-01-26 23:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 00:00:00 INFO INFO: Security scan completed - 419071 files scanned
+2025-01-27 00:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 00:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 01:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 01:20:00 INFO INFO: User user4215 authenticated successfully from 192.168.74.82
+2025-01-27 01:40:00 INFO INFO: Routine backup completed - 142GB in 2718s
+2025-01-27 02:00:00 INFO INFO: Security scan completed - 279784 files scanned
+2025-01-27 02:20:00 INFO INFO: User user3063 authenticated successfully from 192.168.41.215
+2025-01-27 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 03:00:00 INFO INFO: User user2403 authenticated successfully from 192.168.82.163
+2025-01-27 03:20:00 INFO INFO: User user9463 authenticated successfully from 192.168.177.192
+2025-01-27 03:40:00 INFO INFO: User user9167 authenticated successfully from 192.168.127.94
+2025-01-27 04:00:00 INFO INFO: Routine backup completed - 149GB in 2701s
+2025-01-27 04:20:00 INFO INFO: Security scan completed - 375578 files scanned
+2025-01-27 04:40:00 INFO INFO: Routine backup completed - 177GB in 1209s
+2025-01-27 05:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 05:20:00 INFO INFO: Security scan completed - 477628 files scanned
+2025-01-27 05:40:00 INFO INFO: Security scan completed - 277613 files scanned
+2025-01-27 06:00:00 INFO INFO: User user3564 authenticated successfully from 192.168.247.142
+2025-01-27 06:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 06:40:00 INFO INFO: User user6840 authenticated successfully from 192.168.175.228
+2025-01-27 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 07:20:00 INFO INFO: User user1426 authenticated successfully from 192.168.91.98
+2025-01-27 07:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 08:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 08:20:00 INFO INFO: User user7017 authenticated successfully from 192.168.33.179
+2025-01-27 08:40:00 INFO INFO: User user8522 authenticated successfully from 192.168.159.109
+2025-01-27 09:00:00 INFO INFO: Security scan completed - 329721 files scanned
+2025-01-27 09:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 09:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 10:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 10:20:00 INFO INFO: Security scan completed - 409561 files scanned
+2025-01-27 10:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 11:00:00 INFO INFO: Routine backup completed - 114GB in 2050s
+2025-01-27 11:20:00 INFO INFO: Routine backup completed - 157GB in 2850s
+2025-01-27 11:40:00 INFO INFO: Routine backup completed - 58GB in 1703s
+2025-01-27 12:00:00 INFO INFO: Security scan completed - 150845 files scanned
+2025-01-27 12:20:00 INFO INFO: Routine backup completed - 103GB in 2734s
+2025-01-27 12:40:00 INFO INFO: User user2548 authenticated successfully from 192.168.189.190
+2025-01-27 13:00:00 INFO INFO: System health check passed - all services normal
+2025-01-27 13:20:00 INFO INFO: User user1079 authenticated successfully from 192.168.75.161
+2025-01-27 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 14:00:00 INFO INFO: Routine backup completed - 59GB in 2289s
+2025-01-27 14:20:00 INFO INFO: User user1420 authenticated successfully from 192.168.67.154
+2025-01-27 14:40:00 INFO INFO: Routine backup completed - 128GB in 2599s
+2025-01-27 15:00:00 INFO INFO: User user4625 authenticated successfully from 192.168.98.76
+2025-01-27 15:20:00 INFO INFO: Security scan completed - 153493 files scanned
+2025-01-27 15:40:00 INFO INFO: Security scan completed - 195149 files scanned
+2025-01-27 16:00:00 INFO INFO: Security scan completed - 456699 files scanned
+2025-01-27 16:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 16:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 17:00:00 INFO INFO: Security scan completed - 353406 files scanned
+2025-01-27 17:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 17:40:00 INFO INFO: Security scan completed - 149280 files scanned
+2025-01-27 18:00:00 INFO INFO: Security scan completed - 245252 files scanned
+2025-01-27 18:20:00 INFO INFO: Routine backup completed - 147GB in 1602s
+2025-01-27 18:40:00 INFO INFO: User user4461 authenticated successfully from 192.168.106.203
+2025-01-27 19:00:00 INFO INFO: Security scan completed - 174469 files scanned
+2025-01-27 19:20:00 INFO INFO: Security scan completed - 353605 files scanned
+2025-01-27 19:40:00 INFO INFO: User user2099 authenticated successfully from 192.168.229.4
+2025-01-27 20:00:00 INFO INFO: User user4321 authenticated successfully from 192.168.77.147
+2025-01-27 20:20:00 INFO INFO: Routine backup completed - 106GB in 2365s
+2025-01-27 20:40:00 INFO INFO: Routine backup completed - 87GB in 1403s
+2025-01-27 21:00:00 INFO INFO: User user8635 authenticated successfully from 192.168.219.112
+2025-01-27 21:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 21:40:00 INFO INFO: Security scan completed - 417169 files scanned
+2025-01-27 22:00:00 INFO INFO: Security scan completed - 194288 files scanned
+2025-01-27 22:20:00 INFO INFO: System health check passed - all services normal
+2025-01-27 22:40:00 INFO INFO: System health check passed - all services normal
+2025-01-27 23:00:00 INFO INFO: User user3992 authenticated successfully from 192.168.91.69
+2025-01-27 23:20:00 INFO INFO: User user7499 authenticated successfully from 192.168.254.93
+2025-01-27 23:40:00 INFO INFO: Security scan completed - 376752 files scanned
+2025-01-28 00:00:00 INFO INFO: User user6403 authenticated successfully from 192.168.66.206
+2025-01-28 00:20:00 INFO INFO: User user3005 authenticated successfully from 192.168.240.43
+2025-01-28 00:40:00 INFO INFO: User user6059 authenticated successfully from 192.168.247.208
+2025-01-28 01:00:00 INFO INFO: User user3467 authenticated successfully from 192.168.170.220
+2025-01-28 01:20:00 INFO INFO: Routine backup completed - 85GB in 1209s
+2025-01-28 01:40:00 INFO INFO: Security scan completed - 430514 files scanned
+2025-01-28 02:00:00 INFO INFO: Routine backup completed - 169GB in 2751s
+2025-01-28 02:20:00 INFO INFO: User user4018 authenticated successfully from 192.168.167.40
+2025-01-28 02:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 03:00:00 INFO INFO: User user3181 authenticated successfully from 192.168.111.156
+2025-01-28 03:20:00 INFO INFO: Security scan completed - 488050 files scanned
+2025-01-28 03:40:00 INFO INFO: Security scan completed - 472198 files scanned
+2025-01-28 04:00:00 INFO INFO: User user2410 authenticated successfully from 192.168.246.120
+2025-01-28 04:20:00 INFO INFO: Routine backup completed - 126GB in 2263s
+2025-01-28 04:40:00 INFO INFO: Security scan completed - 381412 files scanned
+2025-01-28 05:00:00 INFO INFO: Routine backup completed - 56GB in 1221s
+2025-01-28 05:20:00 INFO INFO: Security scan completed - 417148 files scanned
+2025-01-28 05:40:00 INFO INFO: Security scan completed - 274960 files scanned
+2025-01-28 06:00:00 INFO INFO: Security scan completed - 477273 files scanned
+2025-01-28 06:20:00 INFO INFO: User user9649 authenticated successfully from 192.168.177.20
+2025-01-28 06:40:00 INFO INFO: Routine backup completed - 189GB in 2812s
+2025-01-28 07:00:00 INFO INFO: System health check passed - all services normal
+2025-01-28 07:20:00 INFO INFO: Routine backup completed - 59GB in 1262s
+2025-01-28 07:40:00 INFO INFO: Security scan completed - 236933 files scanned
+2025-01-28 08:00:00 INFO INFO: Security scan completed - 198077 files scanned
+2025-01-28 08:20:00 INFO INFO: System health check passed - all services normal
+2025-01-28 08:40:00 INFO INFO: User user9851 authenticated successfully from 192.168.95.135
+2025-01-28 09:00:00 INFO INFO: User user1423 authenticated successfully from 192.168.51.73
+2025-01-28 09:20:00 INFO INFO: Routine backup completed - 185GB in 2048s
+2025-01-28 09:40:00 INFO INFO: Security scan completed - 182046 files scanned
+2025-01-28 10:00:00 INFO INFO: Routine backup completed - 168GB in 2297s
+2025-01-28 10:20:00 INFO INFO: Routine backup completed - 75GB in 2146s
+2025-01-28 10:40:00 INFO INFO: Routine backup completed - 140GB in 2652s
+2025-01-28 11:00:00 INFO INFO: User user2207 authenticated successfully from 192.168.184.23
+2025-01-28 11:20:00 INFO INFO: System health check passed - all services normal
+2025-01-28 11:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 12:00:00 INFO INFO: User user7039 authenticated successfully from 192.168.193.40
+2025-01-28 12:20:00 INFO INFO: Routine backup completed - 101GB in 1460s
+2025-01-28 12:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 13:00:00 INFO INFO: Routine backup completed - 139GB in 1541s
+2025-01-28 13:20:00 INFO INFO: Security scan completed - 208271 files scanned
+2025-01-28 13:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 14:00:00 INFO INFO: Security scan completed - 436229 files scanned
+2025-01-28 14:20:00 INFO INFO: User user1771 authenticated successfully from 192.168.103.197
+2025-01-28 14:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 15:00:00 INFO INFO: System health check passed - all services normal
+2025-01-28 15:20:00 INFO INFO: Security scan completed - 389038 files scanned
+2025-01-28 15:40:00 INFO INFO: System health check passed - all services normal
+2025-01-28 16:00:00 INFO INFO: User user1655 authenticated successfully from 192.168.120.199
+2025-01-28 16:20:00 INFO INFO: User user2467 authenticated successfully from 192.168.228.42
+2025-01-28 16:40:00 INFO INFO: User user8845 authenticated successfully from 192.168.200.104
+2025-01-28 17:00:00 INFO INFO: System health check passed - all services normal
+2025-01-28 17:20:00 INFO INFO: Routine backup completed - 89GB in 1332s
+2025-01-28 17:40:00 INFO INFO: Routine backup completed - 129GB in 1927s
+2025-01-28 18:00:00 INFO INFO: User user5684 authenticated successfully from 192.168.201.201
+2025-01-28 18:20:00 INFO INFO: User user8459 authenticated successfully from 192.168.219.169

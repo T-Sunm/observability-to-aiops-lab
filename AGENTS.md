@@ -64,7 +64,7 @@ Keep heavy AIOps packages in a separate uv dependency group when groups are intr
 - Keep application logic out of infrastructure configuration and AIOps logic out of API handlers.
 - Prometheus is the initial AIOps data source; model files belong in a git-ignored artifact directory.
 - Do not add Kafka, databases, feature stores, vector stores, LLM workflows, schedulers, or remediation without an explicit requirement.
-- Do not commit secrets, `.env` files, telemetry data, or model binaries.
+- Do not commit secrets, `.env` files.
 
 ## Telemetry and Tutorial Contract
 
